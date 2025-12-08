@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8" />
-    <title>Vietnamese Frequency Viewer</title>
+    <title>Vietnamese Word Frequency Viewer</title>
     <style>
         body {
             font-family: sans-serif;
@@ -36,16 +36,7 @@
 <body>
 
     <h1>Vietnamese Word Frequencies</h1>
-
-    <label>
-        Corpus:
-        <select id="corpusSelect">
-            <option value="mixed">Mixed Corpus</option>
-            <option value="opensub">OpenSubtitles</option>
-            <option value="leipzig">Leipzig</option>
-        </select>
-    </label>
-
+    
     <label>
         POS:
         <select id="posSelect">
@@ -67,18 +58,14 @@
 
     <script>
         // --- Configuration ---
-        const corpusFiles = {
-            mixed: "google_sheets_word_frequencies_mixed.tsv",
-            opensub: "google_sheets_word_frequencies_opensubtitles.tsv",
-            leipzig: "google_sheets_word_frequencies.tsv",
-        };
+        const corpusFile = "by_pos_word_frequencies_mixed.tsv";
 
         let currentData = [];
         let allPOS = new Set();
 
         // --- Load selected corpus ---
-        async function loadCorpus(name) {
-            const url = corpusFiles[name];
+        async function loadCorpus() {
+            const url = corpusFile;
             const raw = await fetch(url).then(r => r.text());
 
             const rows = raw.trim().split("\n").map(line => {
@@ -131,14 +118,10 @@
         }
 
         // --- Event listeners ---
-        document.getElementById("corpusSelect").addEventListener("change", e => {
-            allPOS.clear();
-            loadCorpus(e.target.value);
-        });
         document.getElementById("posSelect").addEventListener("change", applyFilters);
 
         // --- Load initial data ---
-        loadCorpus("mixed");
+        loadCorpus();
     </script>
 
 </body>

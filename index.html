@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Vietnamese Frequency Viewer</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            padding: 20px;
+        }
+
+        select {
+            margin-right: 10px;
+            padding: 5px;
+        }
+
+        table {
+            border-collapse: collapse;
+            margin-top: 20px;
+            width: 100%;
+        }
+
+        th,
+        td {
+            padding: 6px 8px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background: #f4f4f4;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Vietnamese Word Frequencies</h1>
+
+    <label>
+        Corpus:
+        <select id="corpusSelect">
+            <option value="mixed">Mixed Corpus</option>
+            <option value="opensub">OpenSubtitles</option>
+            <option value="leipzig">Leipzig</option>
+        </select>
+    </label>
+
+    <label>
+        POS:
+        <select id="posSelect">
+            <option value="all">All</option>
+        </select>
+    </label>
+
+    <table id="dataTable">
+        <thead>
+            <tr>
+                <th>Rank</th>
+                <th>Frequency</th>
+                <th>Word</th>
+                <th>POS</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <script>
+        // --- Configuration ---
+        const corpusFiles = {
+            mixed: "google_sheets_word_frequencies_mixed.tsv",
+            opensub: "google_sheets_word_frequencies_opensubtitles.tsv",
+            leipzig: "google_sheets_word_frequencies.tsv",
+        };
+
+        let currentData = [];
+        let allPOS = new Set();
+
+        // --- Load selected corpus ---
+        async function loadCorpus(name) {
+            const url = corpusFiles[name];
+            const raw = await fetch(url).then(r => r.text());
+
+            const rows = raw.trim().split("\n").map(line => {
+                const [rank, freq, word, posList] = line.split("\t");
+                const pos = posList ? posList.split(",").map(p => p.trim()) : [];
+                pos.forEach(p => allPOS.add(p));
+                return { word, freq: Number(freq), rank: Number(rank), pos };
+            });
+
+            currentData = rows;
+            populatePOSDropdown();
+            renderTable(rows);
+        }
+
+        function populatePOSDropdown() {
+            const posSel = document.getElementById("posSelect");
+            // Reset except "All"
+            posSel.innerHTML = `<option value="all">All</option>`;
+            [...allPOS].sort().forEach(tag => {
+                posSel.innerHTML += `<option value="${tag}">${tag}</option>`;
+            });
+        }
+
+        function renderTable(rows) {
+            const tbody = document.querySelector("#dataTable tbody");
+            tbody.innerHTML = "";
+
+            for (const row of rows) {
+                const tr = document.createElement("tr");
+                tr.innerHTML = `
+            <td>${row.rank}</td>
+            <td>${row.freq}</td>
+            <td>${row.word}</td>
+            <td>${row.pos.join(", ")}</td>
+        `;
+                tbody.appendChild(tr);
+            }
+        }
+
+        // --- Filtering ---
+        function applyFilters() {
+            const pos = document.getElementById("posSelect").value;
+
+            let filtered = currentData;
+            if (pos !== "all") {
+                filtered = filtered.filter(r => r.pos.includes(pos));
+            }
+
+            renderTable(filtered);
+        }
+
+        // --- Event listeners ---
+        document.getElementById("corpusSelect").addEventListener("change", e => {
+            allPOS.clear();
+            loadCorpus(e.target.value);
+        });
+        document.getElementById("posSelect").addEventListener("change", applyFilters);
+
+        // --- Load initial data ---
+        loadCorpus("mixed");
+    </script>
+
+</body>
+
+</html>

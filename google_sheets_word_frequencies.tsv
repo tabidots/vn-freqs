@@ -1,0 +1,5000 @@
+1	319519	và	conjunction, determiner, verb
+2	290955	của	noun, preposition
+3	243055	là	conjunction, noun, particle, verb
+4	231273	các	determiner, proper noun, verb
+5	217386	có	adjective, adverb, interjection, noun, verb
+6	197777	được	interjection, particle, verb
+7	197428	trong	adjective, preposition
+8	172955	cho	particle, preposition, verb
+9	163534	một	adjective, adverb, noun, numeral
+10	154301	với	noun, particle, preposition, verb
+11	152176	không	adjective, adverb, conjunction, interjection, noun, numeral, particle
+12	150379	những	determiner, particle
+13	143023	đã	particle, verb
+14	130720	người	classifier, noun, pronoun, proper noun
+15	113903	để	conjunction, verb
+16	98363	này	adverb, determiner, particle
+17	93756	khi	adverb, pronoun, verb
+18	91943	đến	preposition, verb
+19	89853	về	noun, preposition, verb
+20	88616	ở	character, preposition, verb
+21	86936	năm	noun, numeral
+22	85557	cũng	adverb
+23	82926	nhiều	determiner
+24	80884	sẽ	particle
+25	80621	bạn	noun, pronoun
+26	80020	đó	noun, particle, pronoun
+27	78290	vào	particle, preposition, verb
+28	76049	từ	conjunction, noun, verb
+29	75908	trên	adjective, preposition
+30	70377	như	particle, proper noun
+31	69753	ra	noun, verb
+32	67756	phải	adjective, particle, verb
+33	62869	lại	adverb, proper noun, verb
+34	60628	làm	preposition, verb
+35	60153	tại	conjunction, verb
+36	56925	nhưng	conjunction
+37	56517	còn	adverb, verb
+38	55934	có thể	adverb
+39	55185	thì	noun, particle
+40	55011	tôi	pronoun, verb
+41	54931	hơn	adjective, adverb
+42	53853	theo	preposition, verb
+43	51308	mà	conjunction, particle
+44	49969	sau	adjective, adverb, preposition
+45	49884	rất	adverb
+46	49344	chỉ	adverb, noun, pronoun, verb
+47	49155	sự	prefix
+48	48452	việc	noun
+49	48431	mình	adverb, noun, pronoun
+50	47768	nhà	adjective, noun
+51	46900	đi	adverb, particle, verb
+52	46743	ngày	noun
+53	45390	anh	adjective, noun, pronoun, proper noun
+54	44621	ông	classifier, noun, pronoun
+55	43596	mới	adjective, adverb
+56	41720	nhất	adverb, interjection, numeral
+57	41656	bị	noun, verb
+58	40303	đang	particle
+59	39051	đây	particle, pronoun
+60	37758	nước	noun
+61	36805	biết	verb
+62	36608	nên	conjunction, verb
+63	34788	lên	adverb, verb
+64	34515	khác	adjective
+65	34370	trước	adverb, preposition
+66	34187	hai	adjective, interjection, numeral
+67	32562	việt nam	proper noun
+68	31572	cao	adjective, noun, proper noun
+69	31295	cùng	adjective, conjunction, noun
+70	31059	con	classifier, noun, pronoun
+71	30759	vẫn	adverb
+72	30449	hay	adjective, adverb, conjunction
+73	30212	qua	adjective, adverb, preposition, verb
+74	29474	nếu	conjunction
+75	29151	cần	noun, proper noun, verb
+76	28882	cả	adjective, determiner, noun
+77	28818	họ	adjective, noun
+78	28734	do	preposition
+79	28354	tới	adjective, preposition, verb
+80	28348	em	adjective, noun, pronoun
+81	28319	nói	verb
+82	27925	thấy	verb
+83	27666	tháng	noun
+84	27597	vì	classifier, conjunction, preposition
+85	27013	sử dụng	verb
+86	26854	bằng	adjective, noun, preposition, verb
+87	25842	cô	noun, pronoun
+88	24247	trường	adjective, noun, proper noun
+89	24246	hoặc	conjunction
+90	24089	lần	noun, preposition, verb
+91	23878	cách	noun, particle, verb
+92	23872	điều	noun
+93	23856	lớn	adjective, verb
+94	23735	bộ	adverb, noun, particle
+95	23632	nó	pronoun
+96	23194	gì	interjection, pronoun
+97	23109	hàng	adjective, noun, proper noun, verb
+98	22780	rằng	conjunction, verb
+99	22469	tổ chức	noun, verb
+100	22214	phát triển	adjective, noun, verb
+101	22175	chính	adjective, adverb
+102	22107	bên	adjective, noun, preposition
+103	21906	nhau	adverb, noun
+104	21521	dùng	noun, verb
+105	21431	tốt	adjective, noun, proper noun
+106	21391	thời gian	noun
+107	21036	đều	adjective, adverb
+108	20868	số	adjective, noun
+109	20801	đường	noun
+110	20636	học	suffix, verb
+111	20562	thực hiện	verb
+112	20443	giúp	verb
+113	20277	cái	adjective, classifier, noun
+114	20259	mỗi	determiner
+115	20244	công ty	noun
+116	19925	thứ	adjective, classifier, noun, prefix, verb
+117	19784	tỉnh	noun, verb
+118	19505	thêm	adjective, conjunction, verb
+119	19394	loại	noun, verb
+120	19163	tăng	noun, proper noun, verb
+121	19162	đầu	adjective, noun
+122	19008	xây dựng	verb
+123	18882	đồng	noun
+124	18702	rồi	adjective, adverb, interjection, particle, verb
+125	18460	hoạt động	adjective, noun
+126	18371	mang	noun, verb
+127	18334	tạo	noun, verb
+128	17658	mọi	determiner, noun
+129	17631	giá	adjective, conjunction, noun
+130	17429	gần	adjective, adverb
+131	17189	đưa	verb
+132	17083	chiếc	classifier
+133	16943	sản phẩm	noun
+134	16916	ăn	verb
+135	16699	nơi	noun, pronoun
+136	16634	nay	adjective, adverb, noun
+137	16454	lúc	noun
+138	16148	một số	adjective
+139	15982	từng	adverb, noun, pronoun
+140	15961	xe	noun, verb
+141	15780	đầu tư	verb
+142	15730	khoảng	adverb, noun
+143	15718	vừa	adjective, adverb, conjunction, verb
+144	15709	tiền	noun, prefix
+145	15612	điểm	noun, verb
+146	15491	đối với	preposition
+147	15447	chương trình	noun
+148	15349	giữa	preposition
+149	15307	cuộc	noun
+150	15306	gia đình	noun
+151	15269	giảm	verb
+152	15240	ngay	adjective, preposition
+153	15100	thi	noun, verb
+154	15098	phòng	noun, verb
+155	15006	bán	prefix, verb
+156	14908	tuy nhiên	adverb
+157	14762	đạt	verb
+158	14671	ngoài	adjective, adverb, preposition
+159	14647	thông tin	noun, verb
+160	14623	ấy	determiner, particle, pronoun
+161	14568	quá	adverb, verb
+162	14533	bài	classifier, noun, verb
+163	14521	nhỏ	adjective, noun, pronoun, verb
+164	14443	bà	noun, pronoun
+165	14431	dân	noun
+166	14414	doanh nghiệp	noun
+167	14346	luôn	adverb
+168	14281	trẻ	adjective, noun
+169	14185	đặc biệt	adjective
+170	14165	thị trường	noun
+171	14142	tuổi	noun
+172	13997	triệu	numeral, proper noun
+173	13891	phần	noun, particle, verb
+174	13868	mua	noun, verb
+175	13863	ta	adjective, particle, pronoun
+176	13794	thế giới	noun
+177	13605	thường	adjective, adverb, proper noun
+178	13523	kinh tế	adjective, noun
+179	13461	tìm	verb
+180	13457	chị	noun, pronoun
+181	13436	ai	noun, pronoun
+182	13187	gây	verb
+183	13138	mẹ	interjection, noun, pronoun
+184	13118	nữa	adverb, interjection
+185	13107	sản xuất	noun, verb
+186	13028	hà nội	proper noun
+187	13015	tên	classifier, noun
+188	12941	cấp	adjective, noun, verb
+189	12858	tham gia	verb
+190	12824	bởi	conjunction
+191	12759	tiếng	noun
+192	12690	hệ thống	noun
+193	12631	tính	noun, verb
+194	12541	thế	adverb, noun, verb
+195	12531	huyện	noun
+196	12499	khiến	verb
+197	12398	thành	adjective, noun, preposition, proper noun, verb
+198	12393	thành phố	noun
+199	12340	đẹp	adjective
+200	12248	xem	verb
+201	12242	sống	adjective, noun, verb
+202	12242	vấn đề	noun
+203	12184	tất cả	noun
+204	12166	nhìn	verb
+205	12162	hãy	adverb
+206	12111	bệnh	adjective, noun
+207	12099	chúng ta	pronoun
+208	12098	ngành	noun
+209	11971	đất	noun
+210	11874	tay	noun
+211	11867	ba	adjective, determiner, noun, numeral
+212	11866	dưới	preposition
+213	11805	quản lý	noun, verb
+214	11649	xã hội	noun
+215	11619	mức	noun
+216	11517	đầu tiên	adjective
+217	11474	tin	noun, verb
+218	11461	đúng	adjective
+219	11409	lấy	verb
+220	11359	sáng	adjective, noun, proper noun
+221	11272	công tác	noun, verb
+222	11223	nghiên cứu	noun, verb
+223	11165	dự án	noun
+224	11122	so	adjective, noun, verb
+225	11121	bé	adjective, noun, pronoun
+226	11062	khá	adjective, adverb
+227	11043	xã	noun
+228	11031	thật	adjective, adverb
+229	10880	phía	noun
+230	10805	câu	noun, verb
+231	10721	giờ	noun
+232	10698	tiếp tục	verb
+233	10693	thiết kế	verb
+234	10648	màu	noun
+235	10580	khả năng	noun
+236	10578	gọi	verb
+237	10524	thuộc	verb
+238	10508	gặp	verb
+239	10475	dịch vụ	noun
+240	10428	máy	noun
+241	10383	chất lượng	noun
+242	10361	viết	noun, verb
+243	10337	hiện nay	adverb
+244	10335	không thể	adjective, adverb
+245	10311	da	noun
+246	10279	quan trọng	adjective
+247	10193	mất	particle, verb
+248	10181	kết quả	noun
+249	10174	chọn	verb
+250	10139	đặt	verb
+251	10125	lớp	noun
+252	10122	làm việc	verb
+253	10106	vốn	adverb, noun
+254	9986	khách hàng	noun
+255	9832	khu vực	noun
+256	9817	khu	noun
+257	9768	hiệu quả	adjective, noun
+258	9750	mùa	adjective, noun
+259	9713	đại học	noun
+260	9582	vùng	noun, verb
+261	9559	hỏi	verb
+262	9538	lời	classifier, noun
+263	9530	nguồn	noun
+264	9527	trung tâm	noun
+265	9506	ban	noun
+266	9464	cây	classifier, noun
+267	9440	đủ	adjective, adverb
+268	9311	biển	noun
+269	9249	học sinh	noun
+270	9240	mặt	noun
+271	9239	tự	adverb, noun, preposition
+272	9214	sinh viên	noun
+273	9172	khó khăn	adjective, noun
+274	9170	ít	determiner
+275	9164	nhóm	noun, verb
+276	9163	bước	noun, verb
+277	9150	xin	verb
+278	9131	hỗ trợ	verb
+279	9116	xuống	adverb, verb
+280	9065	nằm	noun, verb
+281	9030	hết	adverb, interjection, proper noun, verb
+282	9009	độ	adverb, noun, verb
+283	9004	sang	adjective, proper noun, verb
+284	8975	khoa học	adjective, noun
+285	8954	quy định	noun, verb
+286	8921	chơi	verb
+287	8900	văn hoá	noun, proper noun
+288	8897	trở thành	verb
+289	8889	cơ sở	noun
+290	8836	công nghệ	noun
+291	8826	nghe	particle, verb
+292	8804	riêng	adjective, preposition
+293	8762	cung cấp	verb
+294	8758	kinh doanh	verb
+295	8733	đội	noun, verb
+296	8727	buổi	noun
+297	8703	vàng	adjective, noun
+298	8686	quyết định	noun, verb
+299	8629	vậy	adverb, particle
+300	8628	giữ	verb
+301	8587	yêu	adjective, adverb, verb
+302	8579	dành	noun, verb
+303	8468	tỷ	noun, numeral, pronoun
+304	8448	hiện	adverb, verb
+305	8419	hoa	adjective, noun, proper noun
+306	8399	chúng	particle, pronoun
+307	8381	chuyện	interjection, noun
+308	8375	giải	noun, verb
+309	8375	trải	verb
+310	8372	thuốc	noun, verb
+311	8332	đào tạo	verb
+312	8314	khó	adjective
+313	8256	cơ quan	noun
+314	8236	trung quốc	adjective, proper noun
+315	8226	quốc gia	adjective, noun
+316	8202	phim	noun
+317	8162	thay đổi	verb
+318	8147	đơn vị	noun
+319	8080	yêu cầu	noun, verb
+320	8005	cuối	adjective, noun
+321	7994	nhằm	conjunction, verb
+322	7960	du lịch	noun
+323	7949	đoàn	noun
+324	7940	dài	adjective, adverb
+325	7936	ảnh	noun, pronoun
+326	7935	nam	adjective, noun, prefix, proper noun
+327	7904	giáo dục	noun, verb
+328	7869	nhanh	adjective, adverb
+329	7848	giống	adjective, noun, verb
+330	7845	diễn	proper noun, verb
+331	7826	kể	verb
+332	7768	hội	noun
+333	7755	công việc	noun
+334	7740	vụ	noun, verb
+335	7723	thành công	noun, verb
+336	7703	càng	adverb, noun
+337	7684	món	classifier, noun
+338	7667	chiều	noun, verb
+339	7655	khách	noun
+340	7628	hiểu	verb
+341	7622	nhà nước	noun
+342	7616	chân	noun
+343	7601	môi trường	adjective, noun
+344	7555	chủ	noun, verb
+345	7541	chống	prefix, verb
+346	7535	chung	adjective, noun, proper noun, verb
+347	7486	bỏ	noun, verb
+348	7483	đánh giá	verb
+349	7482	quốc tế	adjective
+350	7475	cán bộ	noun, pronoun
+351	7462	thích	noun, proper noun, verb
+352	7437	rõ	adjective, interjection
+353	7436	quá trình	noun
+354	7407	trường hợp	noun
+355	7403	cuộc sống	noun
+356	7341	lao động	noun, verb
+357	7333	địa phương	adjective, noun
+358	7321	thầy	noun, pronoun
+359	7317	bảo vệ	noun, verb
+360	7315	nghĩ	verb
+361	7308	thu	noun, proper noun, verb
+362	7305	kế hoạch	noun
+363	7260	cạnh	noun, preposition
+364	7255	bắt đầu	verb
+365	7247	chạy	adverb, verb
+366	7243	như vậy	adjective
+367	7207	gửi	verb
+368	7204	mắt	noun
+369	7197	đôi	adverb, noun
+370	7197	nội dung	noun
+371	7190	điện	noun, verb
+372	7168	nâng	verb
+373	7148	điều kiện	noun
+374	7090	tuần	noun, verb
+375	7072	kiểm tra	noun, verb
+376	7053	thế nào	adverb
+377	6967	lòng	noun
+378	6960	phụ nữ	noun
+379	6956	đâu	adverb, particle
+380	6956	ngân hàng	noun
+381	6956	mạnh	adjective, proper noun
+382	6944	hướng	noun, verb
+383	6925	phù hợp	adjective, verb
+384	6910	đứng	adjective, verb
+385	6852	dòng	noun
+386	6847	dễ	adjective
+387	6839	đông	adjective, noun, verb
+388	6834	nhu cầu	noun
+389	6824	một cách	prefix
+390	6822	khỏi	adverb, verb
+391	6809	giá trị	noun
+392	6802	vòng	adjective, classifier, noun, verb
+393	6785	mở	verb
+394	6784	hình ảnh	noun
+395	6749	nhân dân	noun
+396	6749	thiết bị	noun
+397	6719	game	noun
+398	6719	cứ	adverb, noun, particle
+399	6700	việt	adjective, proper noun
+400	6629	con người	noun
+401	6605	lãnh đạo	noun
+402	6600	ảnh hưởng	noun, verb
+403	6587	quan tâm	verb
+404	6577	chẳng	adverb
+405	6565	lựa chọn	noun, verb
+406	6541	đáng	adjective, verb
+407	6539	ngoài ra	adverb
+408	6507	phép	adjective, noun
+409	6484	xảy	verb
+410	6482	mạng	noun, proper noun, verb
+411	6470	nền	classifier, noun
+412	6469	đêm	noun
+413	6461	chết	adjective, adverb, interjection, verb
+414	6431	bóng	adjective, noun
+415	6428	chất	adjective, noun, verb
+416	6424	chính phủ	noun
+417	6413	thiếu	verb
+418	6411	hoàn toàn	adjective, adverb
+419	6384	sinh	noun, verb
+420	6361	nhờ	adjective, preposition, verb
+421	6355	thấp	adjective
+422	6338	liên quan	noun
+423	6337	vị trí	noun
+424	6286	sách	noun
+425	6276	báo	noun, verb
+426	6238	chuyển	noun, verb
+427	6237	khoá	noun, verb
+428	6179	lễ	noun, verb
+429	6169	toàn	adverb, prefix, proper noun
+430	6130	chia sẻ	verb
+431	6128	đọc	verb
+432	6121	sông	noun
+433	6118	xuất hiện	verb
+434	6112	nhớ	verb
+435	6085	thực tế	adjective, adverb, noun
+436	6064	trang	noun, proper noun
+437	6063	an toàn	adjective, noun
+438	6054	vị	classifier, noun, preposition
+439	6031	lĩnh vực	noun
+440	6030	nhiệm vụ	noun
+441	5998	đầy	adjective
+442	5971	xa	adjective, noun
+443	5966	mẫu	affix, noun
+444	5948	uống	verb
+445	5934	miền	noun
+446	5931	hãng	noun
+447	5930	pháp	noun, proper noun
+448	5905	cơ hội	noun
+449	5896	triển khai	verb
+450	5873	cá nhân	adjective, noun
+451	5831	quyền	noun, prefix, proper noun
+452	5824	thành viên	noun
+453	5821	hình	noun
+454	5788	bản	classifier, noun, proper noun
+455	5786	vài	determiner
+456	5766	phút	noun
+457	5765	chồng	noun, verb
+458	5739	ứng dụng	adjective, noun, verb
+459	5719	đồng thời	adverb
+460	5694	lượng	noun
+461	5694	lạng	noun
+462	5676	gái	adjective, noun
+463	5658	kỹ thuật	noun
+464	5658	sớm	adverb
+465	5655	quận	noun
+466	5648	người ta	noun, pronoun
+467	5631	mấy	adverb, determiner
+468	5601	đánh	verb
+469	5594	đảm bảo	verb
+470	5580	tình trạng	noun
+471	5566	nghề	noun
+472	5559	xanh	adjective, noun
+473	5555	ngồi	verb
+474	5555	dẫn	prefix, verb
+475	5536	quan hệ	noun, verb
+476	5530	trận	classifier, noun
+477	5524	đảng	noun
+478	5519	loài	noun
+479	5518	chứ	particle
+480	5515	sở	noun
+481	5507	chịu	verb
+482	5431	tập trung	verb
+483	5409	vượt	verb
+484	5407	nữ	adjective, noun, prefix
+485	5393	lâu	adverb
+486	5393	chính sách	noun
+487	5380	điện thoại	noun, verb
+488	5371	phát hiện	verb
+489	5370	gồm	verb
+490	5360	bàn	affix, classifier, noun, verb
+491	5349	tàu	adjective, noun
+492	5344	tết	noun, verb
+493	5329	trực tiếp	adjective, adverb
+494	5322	chủ tịch	noun
+495	5318	phục vụ	verb
+496	5310	thể hiện	verb
+497	5306	trắng	adjective
+498	5271	hát	noun, verb
+499	5263	chuẩn bị	verb
+500	5255	kinh nghiệm	noun
+501	5255	trách nhiệm	noun
+502	5250	giải quyết	verb
+503	5245	tránh	verb
+504	5239	thôi	interjection, noun, particle, verb
+505	5237	thời điểm	noun
+506	5224	giới thiệu	verb
+507	5164	chỗ	noun
+508	5147	báo cáo	verb
+509	5145	vợ	noun
+510	5142	sức khoẻ	noun
+511	5130	công trình	noun
+512	5116	làng	noun
+513	5110	đá	noun, verb
+514	5107	cá	noun, particle, verb
+515	5092	đơn giản	noun
+516	5081	nhân viên	noun
+517	5072	vì vậy	adverb
+518	5052	cháu	noun, pronoun
+519	5033	ngôi	classifier, noun
+520	5031	đồ	noun, particle, verb
+521	5023	đem	verb
+522	5013	vui	adjective, proper noun
+523	4996	niềm	noun
+524	4994	đối tượng	noun
+525	4956	rộng	adjective
+526	4954	mục tiêu	noun
+527	4953	cơ thể	noun
+528	4938	nước ngoài	adjective, noun
+529	4919	điều trị	verb
+530	4914	lịch sử	adjective, noun
+531	4894	cầu	noun, proper noun, verb
+532	4882	thường xuyên	adjective, adverb
+533	4857	phương pháp	noun
+534	4834	giai đoạn	noun
+535	4826	nổi tiếng	adjective
+536	4815	bao giờ	adverb
+537	4803	quân	classifier, noun, proper noun
+538	4797	diện tích	noun
+539	4784	ngày càng	adverb
+540	4764	thông qua	verb
+541	4759	giấy	noun
+542	4752	lắm	adverb, determiner
+543	4748	máu	adjective, noun
+544	4744	đời	classifier, noun
+545	4732	áo	noun
+546	4731	tặng	verb
+547	4721	máy tính	noun
+548	4713	quay	noun, verb
+549	4712	kiểu	noun, particle
+550	4705	bác	noun, pronoun, verb
+551	4691	công nghiệp	noun
+552	4691	hướng dẫn	noun, verb
+553	4682	dạy	verb
+554	4682	cụ thể	adjective
+555	4671	nuôi	adjective, verb
+556	4659	nguyễn	proper noun
+557	4643	quả	adverb, classifier, noun
+558	4636	thời	noun
+559	4632	hiện tại	adjective, adverb, noun
+560	4628	cậu	noun, pronoun
+561	4625	tp	noun
+562	4620	ngủ	noun, verb
+563	4618	xác định	adjective, verb
+564	4610	luật	noun
+565	4581	dễ dàng	adjective
+566	4579	chuyến	noun
+567	4573	thực sự	adverb
+568	4559	hộ	adverb, noun
+569	4556	học tập	verb
+570	4551	nặng	adjective, noun, verb
+571	4548	cuối cùng	adjective, adverb
+572	4531	mối	classifier, noun, verb
+573	4530	đóng	verb
+574	4522	trả	verb
+575	4513	khẳng định	verb
+576	4506	hoà	adjective, proper noun, verb
+577	4503	thậm chí	adverb
+578	4494	thương mại	noun
+579	4470	giao thông	noun
+580	4459	chi phí	noun, verb
+581	4432	bắc	adjective, proper noun, verb
+582	4431	giao	noun, verb
+583	4428	chức năng	noun
+584	4425	áp dụng	verb
+585	4421	hiện đại	adjective
+586	4407	cười	noun, verb
+587	4402	kết hợp	adjective, verb
+588	4397	bao gồm	verb
+589	4395	bảng	noun
+590	4395	đại diện	noun, verb
+591	4359	nguyên nhân	noun
+592	4354	tấm	classifier, noun
+593	4345	chính thức	adjective
+594	4343	suốt	adverb, noun
+595	4340	trả lời	verb
+596	4328	lá	adjective, classifier, noun
+597	4328	chữ	noun
+598	4327	đau	adjective, verb
+599	4315	hoàn thành	verb
+600	4311	bay	adverb, noun, verb
+601	4305	ý kiến	noun
+602	4301	sở hữu	verb
+603	4294	rừng	noun
+604	4294	hồ sơ	noun
+605	4278	thăm	noun, verb
+606	4277	công	adjective, noun, proper noun
+607	4269	nàng	noun, pronoun
+608	4259	truyền thống	adjective, noun
+609	4253	bức	adjective, classifier, verb
+610	4245	a	character, interjection, noun, particle, pronoun
+611	4238	không gian	noun
+612	4237	thành lập	verb
+613	4205	coi	interjection, verb
+614	4202	nhạc	noun
+615	4198	dân tộc	noun
+616	4198	tiến hành	verb
+617	4197	địa bàn	noun
+618	4183	phần mềm	noun
+619	4180	đứa	classifier
+620	4179	đầy đủ	adjective, adverb
+621	4178	cũ	adjective
+622	4178	tự nhiên	adjective, adverb, interjection, noun
+623	4176	môn	noun
+624	4165	nghệ thuật	noun
+625	4162	giải pháp	noun
+626	4158	trở	verb
+627	4152	lực lượng	noun
+628	4149	trở nên	verb
+629	4148	núi	noun
+630	4148	hội nghị	noun
+631	4144	bản thân	pronoun
+632	4142	số lượng	noun
+633	4134	bệnh viện	noun
+634	4131	cần thiết	adjective
+635	4124	đỏ	adjective
+636	4116	tối	adjective, noun
+637	4109	sức	noun
+638	4107	nga	adjective, noun, proper noun
+639	4104	máy bay	noun
+640	4102	thực phẩm	noun
+641	4092	nhật bản	adjective, proper noun
+642	4090	hạnh phúc	adjective, noun
+643	4085	thuê	verb
+644	4084	tinh thần	noun
+645	4082	hồ	noun, proper noun
+646	4071	tìm kiếm	verb
+647	4069	vai trò	noun
+648	4047	yếu tố	noun
+649	4040	chiếm	verb
+650	4035	thuế	noun
+651	4028	cộng đồng	adjective, noun
+652	4015	vé	noun
+653	4012	sâu	adjective, adverb, noun
+654	4010	chắc chắn	adjective, adverb
+655	4008	phường	noun
+656	3997	y tế	noun
+657	3997	cảm giác	noun, verb
+658	3995	thương hiệu	noun
+659	3994	bắt	verb
+660	3989	giới	noun
+661	3989	nét	adjective, noun
+662	3989	trở lại	verb
+663	3987	phối hợp	verb
+664	3973	thân	adjective, noun, prefix, proper noun
+665	3972	chế độ	noun
+666	3970	bây giờ	adverb
+667	3965	trồng	verb
+668	3955	quà	noun
+669	3925	chăm sóc	verb
+670	3922	nhanh chóng	adjective
+671	3911	màn hình	noun
+672	3906	dù	conjunction, noun
+673	3906	dầu	noun
+674	3906	cổ	adjective, noun, pronoun
+675	3906	chuyên gia	noun
+676	3904	thịt	noun
+677	3902	hấp dẫn	adjective, noun, verb
+678	3898	đáp ứng	verb
+679	3895	công an	noun
+680	3893	in	adjective, verb
+681	3893	chủ yếu	adjective, adverb
+682	3878	đất nước	noun
+683	3876	tư vấn	verb
+684	3865	thông báo	noun, verb
+685	3852	đừng	verb
+686	3848	xong	adjective, verb
+687	3830	tình hình	noun
+688	3815	chính trị	adjective, noun
+689	3813	nghèo	adjective
+690	3807	lập	proper noun, verb
+691	3805	hợp tác	adjective, noun, verb
+692	3794	ghi	adjective, verb
+693	3777	đồng chí	noun
+694	3774	dần	adverb, proper noun, verb
+695	3773	tác dụng	noun
+696	3762	tiếp	verb
+697	3761	cửa	noun
+698	3756	cảm thấy	verb
+699	3747	đức	noun, prefix
+700	3746	hôm	noun
+701	3745	giáo viên	noun
+702	3745	tích cực	adjective
+703	3738	sân	noun
+704	3733	xuất khẩu	verb
+705	3732	thu hút	verb
+706	3720	chứa	verb
+707	3717	thí sinh	noun
+708	3714	đảo	noun, verb
+709	3712	phiên bản	noun
+710	3704	dự	verb
+711	3695	khối	adverb, noun
+712	3693	chú ý	verb
+713	3692	chụp	verb
+714	3688	văn phòng	noun
+715	3685	chỉ đạo	verb
+716	3680	tập	noun, verb
+717	3680	dựa	verb
+718	3679	hệ	noun
+719	3675	sự kiện	noun
+720	3673	nhân	conjunction, noun, preposition, verb
+721	3666	hạn chế	verb
+722	3658	bệnh nhân	noun
+723	3656	bảo	proper noun, verb
+724	3654	vay	verb
+725	3650	hình thức	noun
+726	3640	pháp luật	noun
+727	3632	ổn định	adjective, noun
+728	3627	mời	verb
+729	3624	hôm nay	adverb
+730	3620	kiến thức	noun
+731	3606	toàn bộ	adjective, noun
+732	3596	khách sạn	noun
+733	3595	mưa	noun, verb
+734	3579	dạng	noun
+735	3579	chi tiết	adjective, noun
+736	3577	thay	adverb, verb
+737	3574	có lẽ	adverb
+738	3574	khoản	noun
+739	3571	vẻ	noun
+740	3569	đấy	particle, pronoun
+741	3566	cơ bản	adjective, adverb
+742	3555	giám đốc	noun
+743	3549	bổ sung	adjective, noun, verb
+744	3543	tăng cường	verb
+745	3541	hồ chí minh	proper noun
+746	3533	đề nghị	verb
+747	3533	góp phần	verb
+748	3527	phong cách	noun
+749	3523	cố gắng	noun, verb
+750	3515	thanh niên	adjective, noun, pronoun
+751	3507	nóng	adjective
+752	3505	chợ	noun
+753	3503	tóc	noun
+754	3496	công bố	verb
+755	3493	cánh	classifier, noun
+756	3478	bao	adverb, determiner, noun, verb
+757	3467	ý nghĩa	noun
+758	3466	căn	classifier, noun, verb
+759	3465	sữa	noun
+760	3460	trái	adjective, adverb, classifier, noun, preposition
+761	3454	hơi	adverb, noun
+762	3451	tốc độ	noun
+763	3447	thanh	adjective, classifier, noun, proper noun
+764	3443	tình yêu	noun
+765	3433	câu chuyện	noun
+766	3431	cuốn	classifier, verb
+767	3429	viện	noun, verb
+768	3424	mô hình	noun
+769	3417	việc làm	noun
+770	3414	sáng tạo	adjective, verb
+771	3409	mở rộng	verb
+772	3390	đen	adjective
+773	3390	hầu hết	adverb
+774	3383	tranh	noun, verb
+775	3378	họp	verb
+776	3374	tác phẩm	noun
+777	3369	to	adjective
+778	3359	đoạn	adverb, noun
+779	3357	thử	adverb, verb
+780	3356	giao dịch	verb
+781	3350	kèm	adverb, verb
+782	3349	khai thác	verb
+783	3346	liên tục	adjective, adverb
+784	3344	chàng	noun, pronoun
+785	3343	tình	noun
+786	3340	đơn	adjective, noun
+787	3322	thư	noun, proper noun
+788	3321	dịp	noun
+789	3321	tầng	noun
+790	3318	kết thúc	noun, verb
+791	3313	hợp đồng	noun
+792	3308	bình	adjective, noun, proper noun, verb
+793	3301	kẻ	noun, verb
+794	3297	cắt	noun, verb
+795	3279	bình thường	adjective, adverb
+796	3279	nhà trường	noun
+797	3274	kiểm soát	verb
+798	3268	nguyên	adjective, noun, prefix, proper noun
+799	3263	vì thế	adverb
+800	3253	kia	adjective, adverb
+801	3249	vô cùng	adjective, adverb, noun
+802	3238	cảnh	adjective, noun
+803	3233	chắc	adjective, adverb, particle, verb
+804	3230	sạch	adjective, adverb
+805	3227	ấn tượng	adjective, noun
+806	3225	tấn	noun, proper noun
+807	3217	chia	noun, verb
+808	3216	nhẹ	adjective
+809	3216	khoa	noun, proper noun
+810	3209	giành	noun, verb
+811	3207	tiết kiệm	noun, verb
+812	3207	tham dự	verb
+813	3203	nổi	adverb, verb
+814	3202	tương lai	noun
+815	3197	liền	adjective, adverb
+816	3192	thắng	noun, proper noun, verb
+817	3190	đàn ông	noun
+818	3189	quý khách	pronoun
+819	3183	rẻ	adjective
+820	3181	du khách	noun
+821	3178	gỗ	noun
+822	3175	nông nghiệp	noun
+823	3173	quán	noun
+824	3172	cân	adjective, noun, verb
+825	3170	vua	adjective, noun
+826	3167	khắp	adverb
+827	3165	điện tử	adjective
+828	3164	rõ ràng	adjective
+829	3160	trẻ em	noun
+830	3155	tính năng	noun
+831	3146	tầm	noun, preposition
+832	3143	khán giả	noun
+833	3132	hội đồng	noun, verb
+834	3126	gió	noun
+835	3126	tài sản	noun
+836	3120	hành động	noun, verb
+837	3115	chú	classifier, noun, pronoun
+838	3101	trăm	noun, numeral
+839	3087	năng lượng	noun
+840	3083	đô thị	noun
+841	3082	địa chỉ	noun
+842	3081	thơ	adjective, noun, proper noun
+843	3077	viên	adjective, classifier, proper noun, suffix, verb
+844	3074	song	adverb, noun, prefix
+845	3069	sợ	verb
+846	3062	chiến lược	adjective, noun
+847	3057	biện pháp	noun
+848	3056	hàn quốc	adjective, proper noun
+849	3055	chi	adverb, noun, pronoun, proper noun, verb
+850	3053	bánh	noun
+851	3049	mục đích	noun
+852	3047	tập đoàn	noun
+853	3041	quảng cáo	noun, verb
+854	3038	dữ liệu	noun
+855	3034	chờ	noun, verb
+856	3033	hắn	pronoun
+857	3027	thể thao	noun
+858	3026	nguy cơ	noun
+859	3025	đón	verb
+860	3023	ca	noun, verb
+861	3018	tiêu dùng	verb
+862	3014	quê	adjective, noun
+863	3012	không khí	noun
+864	3011	tây	adjective, noun, proper noun
+865	3011	tuy	conjunction
+866	3003	phổ biến	adjective, verb
+867	2998	điều chỉnh	verb
+868	2995	tìm hiểu	verb
+869	2993	trung ương	adjective, noun
+870	2990	quên	verb
+871	2982	tốt nghiệp	verb
+872	2974	bữa	noun
+873	2974	trang bị	noun, verb
+874	2966	vận động	noun, verb
+875	2965	mong muốn	noun, verb
+876	2963	tăng trưởng	verb
+877	2961	bạn bè	noun, verb
+878	2961	điều hành	verb
+879	2956	bất ngờ	adjective
+880	2952	bất cứ	determiner
+881	2951	mặc	verb
+882	2951	thời trang	noun
+883	2947	giỏi	adjective, proper noun
+884	2943	trao	verb
+885	2940	vai	noun
+886	2940	phố	noun
+887	2940	thủ tục	noun
+888	2934	văn bản	noun
+889	2927	nợ	noun, verb
+890	2921	tiêu chuẩn	noun
+891	2919	màu sắc	noun
+892	2918	điều tra	verb
+893	2910	bờ	noun
+894	2908	hàng hoá	noun
+895	2902	chính quyền	noun
+896	2900	tài liệu	noun
+897	2885	viêm	noun
+898	2881	phong trào	noun
+899	2881	chuyên	adjective, verb
+900	2880	nghỉ	verb
+901	2878	hồi	noun, verb
+902	2877	trung	adjective, proper noun
+903	2874	trao đổi	verb
+904	2873	khô	adjective, noun
+905	2873	nắm	classifier, verb
+906	2866	phát	noun, verb
+907	2864	nhân vật	noun
+908	2859	cha	noun, pronoun
+909	2859	biến	interjection, noun, verb
+910	2854	tác giả	noun
+911	2851	lạnh	adjective
+912	2851	ngon	adjective, adverb
+913	2851	cao cấp	adjective
+914	2845	chùa	adjective, adverb, noun
+915	2844	cạnh tranh	adjective, verb
+916	2833	lương	noun, proper noun
+917	2830	dự kiến	noun, verb
+918	2825	kém	adjective, preposition
+919	2822	hạt	noun
+920	2821	sắp	particle, verb
+921	2820	rượu	noun
+922	2816	m	character, pronoun
+923	2810	đại biểu	noun
+924	2807	đời sống	noun
+925	2803	nêu	noun, verb
+926	2799	đợt	noun
+927	2798	thẻ	noun
+928	2798	bậc	classifier, noun
+929	2791	chuyên nghiệp	adjective
+930	2789	phân tích	verb
+931	2787	xuân	noun, proper noun
+932	2783	hè	noun, particle
+933	2783	tâm	noun, proper noun
+934	2783	tấn công	verb
+935	2781	quĩ	noun
+936	2777	vợ chồng	adjective, noun
+937	2769	duy trì	verb
+938	2768	liên hệ	noun, verb
+939	2765	tác động	noun, verb
+940	2764	mạnh mẽ	adjective, adverb
+941	2763	danh sách	noun
+942	2762	con gái	noun
+943	2762	thu nhập	noun
+944	2751	ngắn	adjective
+945	2750	chính xác	adjective, adverb
+946	2737	cặp	noun, verb
+947	2733	ngàn	noun
+948	2733	nộp	verb
+949	2731	nông dân	noun
+950	2730	đóng góp	noun, verb
+951	2720	rút	proper noun, verb
+952	2720	chúc	verb
+953	2716	kéo dài	verb
+954	2711	dừng	noun, verb
+955	2710	đề	noun, verb
+956	2710	nỗ lực	noun, verb
+957	2708	kiếm	noun, proper noun, verb
+958	2707	mong	noun, verb
+959	2706	hồng	adjective, noun, proper noun
+960	2701	kết nối	verb
+961	2700	đèn	noun
+962	2700	nắng	adjective, noun
+963	2699	hương	noun, proper noun
+964	2695	hề	adverb, noun, verb
+965	2693	châu	noun, proper noun, verb
+966	2693	nửa	adjective, noun
+967	2687	rau	noun
+968	2685	quy hoạch	verb
+969	2684	mắc	adjective, noun, verb
+970	2684	nông thôn	noun
+971	2679	vườn	noun
+972	2677	hàng đầu	adjective, noun
+973	2676	cơm	adjective, noun, verb
+974	2675	nỗi	noun
+975	2664	cầu thủ	noun
+976	2656	xấu	adjective
+977	2656	cơn	classifier, noun
+978	2648	thú vị	adjective
+979	2644	căn hộ	noun
+980	2636	uỷ ban	noun
+981	2632	phương tiện	noun
+982	2631	chiến thắng	noun, verb
+983	2627	cục	adjective, classifier, noun
+984	2623	duy nhất	adjective
+985	2622	chục	noun
+986	2620	xuất sắc	adjective
+987	2617	quốc hội	noun
+988	2610	c	character, pronoun
+989	2606	tự do	adjective, noun
+990	2606	hẳn	adverb
+991	2599	phân	noun, verb
+992	2598	gắn	verb
+993	2596	bố	noun, pronoun
+994	2594	tim	noun
+995	2594	tại sao	adverb
+996	2593	bếp	noun
+997	2593	lẫn	adverb, conjunction, verb
+998	2591	bốn	numeral
+999	2591	cháy	adjective, noun, verb
+1000	2589	nhật	adjective, proper noun
+1001	2586	văn	noun, proper noun
+1002	2585	gấp	adjective, verb
+1003	2585	cửa hàng	noun
+1004	2579	có mặt	verb
+1005	2569	bộ phận	noun
+1006	2565	ủng hộ	verb
+1007	2562	đội ngũ	noun
+1008	2559	lỗi	noun
+1009	2557	tồn tại	adjective, noun, verb
+1010	2544	lúa	adjective, noun
+1011	2543	thi đấu	verb
+1012	2533	theo dõi	verb
+1013	2529	chuyên môn	adjective, noun
+1014	2522	may	adjective, proper noun, verb
+1015	2520	bao nhiêu	pronoun
+1016	2516	dân số	noun
+1017	2514	đổ	verb
+1018	2514	nhà máy	noun
+1019	2513	lối	noun
+1020	2507	chậm	adjective
+1021	2507	khám	verb
+1022	2505	ra mắt	adjective, verb
+1023	2501	trai	adjective, noun
+1024	2501	sinh hoạt	noun, verb
+1025	2496	hành chính	adjective
+1026	2494	cà phê	noun
+1027	2492	vệ sinh	noun
+1028	2491	tình cảm	adjective, noun
+1029	2488	gà	adjective, noun, verb
+1030	2488	tiến	noun, proper noun, verb
+1031	2486	thủ tướng	noun
+1032	2484	lo	verb
+1033	2475	mùi	noun, proper noun
+1034	2474	suy nghĩ	verb
+1035	2469	trưởng	adjective, noun, prefix, suffix
+1036	2468	xung quanh	noun
+1037	2465	rơi	verb
+1038	2465	góc	noun
+1039	2456	thoải mái	adjective
+1040	2453	chữa	verb
+1041	2449	chuẩn	adjective, noun
+1042	2446	xu hướng	noun
+1043	2446	cuộc đời	noun
+1044	2443	cách mạng	noun
+1045	2435	nhập khẩu	verb
+1046	2427	an ninh	adjective, noun
+1047	2426	ban đầu	adjective, noun
+1048	2426	thoát	verb
+1049	2417	sàn	noun
+1050	2417	gạo	adjective, noun, proper noun
+1051	2415	toà	classifier, noun, pronoun
+1052	2414	phương	noun, proper noun
+1053	2411	tuyệt vời	adjective
+1054	2407	huế	proper noun
+1055	2406	gốc	adjective, noun
+1056	2403	sẵn sàng	adjective, verb
+1057	2401	cầm	noun, proper noun, verb
+1058	2399	chủ đề	noun
+1059	2395	thai	noun
+1060	2395	thế hệ	noun
+1061	2393	minh	proper noun
+1062	2391	mã	noun, proper noun
+1063	2390	ngày nay	adverb
+1064	2389	tương tự	adjective
+1065	2380	cải thiện	verb
+1066	2379	hút	verb
+1067	2377	trung bình	noun
+1068	2376	tổ	noun
+1069	2373	thôn	noun
+1070	2368	sai	adjective, verb
+1071	2368	ý	noun
+1072	2364	rời	verb
+1073	2361	tường	noun, verb
+1074	2360	hành vi	noun
+1075	2359	khí	noun
+1076	2357	sài gòn	proper noun
+1077	2352	quanh	adjective, preposition
+1078	2349	công cụ	noun
+1079	2348	miễn phí	adjective
+1080	2348	năng lực	noun
+1081	2347	kéo	noun, verb
+1082	2346	thức ăn	noun
+1083	2345	giúp đỡ	verb
+1084	2344	lợi ích	noun
+1085	2343	bộ trưởng	noun
+1086	2339	đổi	verb
+1087	2338	pha	noun, verb
+1088	2332	cung	noun
+1089	2332	kính	noun, prefix
+1090	2330	bụng	noun
+1091	2328	hết sức	adverb
+1092	2324	x	character
+1093	2320	cụ	noun, pronoun
+1094	2318	dịch	noun, verb
+1095	2316	cảnh sát	noun
+1096	2312	nổi bật	adjective
+1097	2308	độc đáo	adjective
+1098	2305	ha	interjection, noun, particle
+1099	2305	con trai	noun
+1100	2302	hình thành	verb
+1101	2300	vi phạm	verb
+1102	2295	chấp nhận	verb
+1103	2294	bất kỳ	determiner
+1104	2293	ngừng	verb
+1105	2291	sự nghiệp	noun
+1106	2286	diễn viên	noun
+1107	2285	lượt	classifier, noun
+1108	2278	mãi	adverb, proper noun
+1109	2273	đổi mới	verb
+1110	2267	nhà hàng	noun
+1111	2262	xây	verb
+1112	2261	truyền hình	noun, verb
+1113	2261	ung thư	noun
+1114	2256	hiện tượng	noun
+1115	2256	năm học	noun
+1116	2254	ánh	noun, verb
+1117	2254	trông	verb
+1118	2245	địa điểm	noun
+1119	2245	chế biến	verb
+1120	2244	điều khiển	noun, verb
+1121	2243	cưới	verb
+1122	2243	trận đấu	noun
+1123	2242	tiếp theo	verb
+1124	2236	làn	classifier, noun
+1125	2232	thành phần	noun
+1126	2230	một vài	adjective
+1127	2227	giọng	noun
+1128	2224	giám sát	verb
+1129	2223	xét	verb
+1130	2222	thuận lợi	adjective, noun
+1131	2220	mũi	classifier, noun
+1132	2220	sẵn	adjective
+1133	2218	trò chơi	noun
+1134	2217	tuỳ	adverb, proper noun
+1135	2214	s	character
+1136	2211	con số	noun
+1137	2207	trần	adjective, adverb, noun, proper noun
+1138	2205	truyền thông	noun
+1139	2204	google	proper noun
+1140	2201	cổng	noun
+1141	2200	cám ơn	verb
+1142	2200	cổ phần	noun
+1143	2199	thích hợp	adjective
+1144	2191	tờ	classifier, noun
+1145	2190	siêu	adjective, adverb, prefix
+1146	2189	vẽ	verb
+1147	2185	tổng thống	noun
+1148	2185	lợi	noun, proper noun
+1149	2184	lửa	noun
+1150	2179	ghế	noun
+1151	2175	hùng	adjective, proper noun
+1152	2173	nhập	verb
+1153	2172	giả	adjective, verb
+1154	2168	bảo hiểm	noun
+1155	2163	dám	verb
+1156	2162	án	noun, verb
+1157	2157	xem xét	verb
+1158	2156	thành tích	noun
+1159	2147	đại hội	noun
+1160	2146	thống nhất	adjective, verb
+1161	2143	phí	noun, proper noun, verb
+1162	2141	mức độ	noun
+1163	2139	cha mẹ	noun
+1164	2136	phụ	adjective, verb
+1165	2134	ngân sách	noun
+1166	2130	nghiệm	noun, verb
+1167	2128	chút	noun
+1168	2126	may mắn	adjective
+1169	2124	thông thường	adjective, adverb
+1170	2123	tham quan	verb
+1171	2121	ánh sáng	noun
+1172	2120	vỏ	noun
+1173	2120	đa dạng	adjective
+1174	2113	một chút	noun
+1175	2112	nguy hiểm	adjective, noun
+1176	2108	sát	adjective, proper noun, verb
+1177	2107	bất động sản	noun
+1178	2107	tiết	noun, verb
+1179	2105	ngang	adjective, adverb, verb
+1180	2104	thị trấn	noun
+1181	2099	rửa	verb
+1182	2099	làm sao	adverb
+1183	2096	phát biểu	verb
+1184	2095	cực	adjective, adverb, noun
+1185	2094	bãi	noun
+1186	2088	nghìn	numeral
+1187	2087	khóc	verb
+1188	2085	video	noun
+1189	2085	vật	noun, verb
+1190	2085	kiến trúc	noun
+1191	2085	ý tưởng	noun
+1192	2084	kênh	adjective, noun, verb
+1193	2083	miệng	noun
+1194	2082	đòi hỏi	noun, verb
+1195	2080	lo lắng	verb
+1196	2079	quản trị	verb
+1197	2073	tự tin	verb
+1198	2071	xếp	verb
+1199	2069	giải thưởng	noun
+1200	2066	lễ hội	noun
+1201	2065	tươi	adjective
+1202	2065	hoàn thiện	verb
+1203	2065	tối đa	adjective, adverb
+1204	2063	âm nhạc	noun
+1205	2063	lưu ý	verb
+1206	2062	tổng hợp	adjective, verb
+1207	2061	tập thể	adjective, noun
+1208	2061	phiên	noun, verb
+1209	2058	đẩy	verb
+1210	2058	liên kết	noun, verb
+1211	2057	phát huy	verb
+1212	2054	tự động	adjective
+1213	2047	hằng	adverb, determiner, noun, proper noun
+1214	2046	gói	noun, verb
+1215	2045	già	adjective, noun
+1216	2042	tuyển	noun, verb
+1217	2042	tải	verb
+1218	2042	kịp thời	adjective
+1219	2041	bảo đảm	verb
+1220	2041	truyền	verb
+1221	2037	hội thảo	noun
+1222	2035	thay thế	verb
+1223	2032	chị em	noun
+1224	2031	v	adverb, character, particle
+1225	2030	kích thước	noun
+1226	2029	quân đội	noun
+1227	2022	thanh toán	verb
+1228	2018	học viên	noun
+1229	2017	thương	affix, noun, proper noun, verb
+1230	2001	sơn	noun, proper noun, verb
+1231	2000	quan	noun
+1232	1999	thiên nhiên	adjective, noun
+1233	1999	ca sĩ	noun
+1234	1998	nhiệt độ	noun
+1235	1995	dinh dưỡng	noun
+1236	1994	á	character, interjection, noun, prefix
+1237	1985	yếu	adjective
+1238	1985	thật sự	adjective, adverb
+1239	1984	bão	noun, proper noun
+1240	1984	chủ động	adjective
+1241	1983	lợi nhuận	noun
+1242	1979	quy mô	noun
+1243	1974	sắc	adjective, noun
+1244	1972	gia	proper noun, verb
+1245	1971	đối thủ	noun
+1246	1970	tiếp cận	verb
+1247	1967	nạn nhân	noun
+1248	1957	đạo	noun, verb
+1249	1957	liệu	proper noun, verb
+1250	1956	trứng	noun
+1251	1955	thống kê	noun, verb
+1252	1949	ấm	adjective, noun
+1253	1948	nói chung	adverb
+1254	1947	web	noun
+1255	1947	chiến tranh	noun
+1256	1946	trình độ	adjective, noun
+1257	1945	hạng	noun
+1258	1945	trang trí	verb
+1259	1945	hoàng	proper noun
+1260	1944	thơm	adjective, noun, proper noun, verb
+1261	1944	tư	adjective, numeral
+1262	1943	i	character, noun
+1263	1942	tế bào	noun
+1264	1940	b	character, pronoun
+1265	1939	thông minh	adjective
+1266	1934	lạ	adjective
+1267	1932	tai nạn	noun
+1268	1931	anh em	noun, pronoun
+1269	1930	cổ phiếu	noun
+1270	1927	ra đời	verb
+1271	1926	túi	adjective, noun
+1272	1926	khám phá	verb
+1273	1921	tắm	verb
+1274	1918	tuyên bố	noun, verb
+1275	1914	tổng số	noun
+1276	1912	thái lan	proper noun
+1277	1912	bố mẹ	noun
+1278	1911	trang phục	noun
+1279	1908	xương	noun
+1280	1908	chặt	adjective, verb
+1281	1906	lưng	noun
+1282	1903	bột	noun
+1283	1902	hoàn cảnh	noun
+1284	1899	đàn	noun, verb
+1285	1897	công nhân	noun
+1286	1892	khắc phục	verb
+1287	1889	trang web	noun
+1288	1888	tâm lý	adjective, noun
+1289	1888	sức mạnh	noun
+1290	1887	tận	adverb
+1291	1885	sang trọng	adjective
+1292	1885	dường như	verb
+1293	1884	thủ	noun, suffix, verb
+1294	1883	bò	noun, verb
+1295	1883	tài	adjective, noun, proper noun
+1296	1882	cứu	verb
+1297	1880	tuyên truyền	noun, verb
+1298	1878	bóng đá	noun
+1299	1877	báo chí	noun
+1300	1876	sân bay	noun
+1301	1875	nút	noun, verb
+1302	1874	nhẹ nhàng	adjective, adverb
+1303	1874	giải thích	verb
+1304	1865	lưu	proper noun, verb
+1305	1863	hưởng	verb
+1306	1863	giải trí	verb
+1307	1859	tạm	adjective
+1308	1859	ít nhất	adverb
+1309	1856	tung	verb
+1310	1856	phát hành	verb
+1311	1855	nhận	verb
+1312	1855	nhấn	verb
+1313	1853	cơ chế	noun
+1314	1852	quan điểm	noun
+1315	1851	tai	noun
+1316	1851	nhắc	verb
+1317	1851	nhấc	verb
+1318	1849	phá	noun, verb
+1319	1848	phức tạp	adjective
+1320	1847	khác biệt	adjective
+1321	1845	sóng	adjective, noun, verb
+1322	1841	tôm	noun
+1323	1839	đề tài	noun
+1324	1838	đại	adjective, adverb
+1325	1838	tài khoản	noun
+1326	1837	cảm xúc	noun, verb
+1327	1836	mát	adjective
+1328	1836	cảm nhận	noun, verb
+1329	1835	toàn cầu	adjective
+1330	1833	đám	classifier, noun
+1331	1826	thpt	noun
+1332	1824	thủ đô	noun
+1333	1822	tiêu thụ	verb
+1334	1820	thể	noun
+1335	1819	ngoại	adjective, noun
+1336	1817	bà con	noun, pronoun
+1337	1815	váy	noun
+1338	1815	quốc	proper noun
+1339	1812	nấu	verb
+1340	1811	thẳng	adjective, adverb
+1341	1810	facebook	proper noun
+1342	1807	phản ứng	noun, verb
+1343	1803	phật	noun, proper noun, verb
+1344	1798	cơ	noun, particle
+1345	1798	uy tín	adjective, noun
+1346	1796	đồng hồ	noun
+1347	1796	mặt hàng	noun
+1348	1793	đáng kể	adjective
+1349	1790	lê	noun, proper noun, verb
+1350	1788	phần lớn	noun
+1351	1787	ngôn ngữ	noun
+1352	1787	đối tác	noun
+1353	1786	thảo luận	verb
+1354	1785	răng	adverb, noun
+1355	1782	nhận thức	noun, verb
+1356	1780	lãi suất	noun
+1357	1778	nhất định	adjective
+1358	1777	buộc	verb
+1359	1774	ca khúc	noun
+1360	1774	vật liệu	noun
+1361	1772	công đoàn	noun
+1362	1770	căn cứ	noun, verb
+1363	1768	nguyên liệu	noun
+1364	1766	hoàn hảo	adjective
+1365	1760	đạo đức	noun
+1366	1759	dấu hiệu	noun
+1367	1757	quần áo	noun
+1368	1756	trà	noun, proper noun
+1369	1755	trực tuyến	adjective, adverb
+1370	1753	cát	noun
+1371	1753	thưởng thức	verb
+1372	1749	e	character, noun, pronoun, verb
+1373	1749	chín	adjective, numeral
+1374	1745	chất liệu	noun
+1375	1744	mười	numeral
+1376	1744	bắn	verb
+1377	1741	băng	noun, verb
+1378	1741	hoá	noun, suffix, verb
+1379	1738	động	adjective, noun, verb
+1380	1736	kho	noun, verb
+1381	1736	di chuyển	verb
+1382	1736	tham khảo	adjective, verb
+1383	1734	phó chủ tịch	noun
+1384	1732	mảnh	adjective, classifier
+1385	1731	thép	noun
+1386	1731	gia tăng	verb
+1387	1729	khung	noun
+1388	1726	cao đẳng	adjective
+1389	1726	trưa	noun
+1390	1724	phẫu thuật	noun
+1391	1721	tạp chí	noun
+1392	1717	độc lập	adjective, noun
+1393	1717	nội	adjective, noun, preposition
+1394	1715	mái	adjective, classifier, noun
+1395	1714	xưa	adjective, noun
+1396	1713	miếng	classifier, noun
+1397	1711	tín dụng	noun
+1398	1709	xăng	noun
+1399	1708	trình bày	verb
+1400	1705	thanh tra	noun, verb
+1401	1704	chỉ số	noun
+1402	1702	giảng dạy	verb
+1403	1701	âm thanh	noun
+1404	1700	phân phối	adjective, verb
+1405	1700	đăng	noun, verb
+1406	1698	màn	classifier, noun
+1407	1693	định	verb
+1408	1686	gan	adjective, noun
+1409	1684	thần	noun, pronoun, proper noun
+1410	1683	ngã	noun, verb
+1411	1682	nội thất	noun
+1412	1681	di động	adjective, noun
+1413	1678	ngực	noun
+1414	1677	tướng	noun
+1415	1676	nhất là	adverb
+1416	1674	kịp	adverb
+1417	1673	phong	noun, proper noun, verb
+1418	1672	gương	noun
+1419	1670	đề xuất	verb
+1420	1670	công nhận	verb
+1421	1669	lỗ	adjective, noun, proper noun
+1422	1666	thúc đẩy	verb
+1423	1665	trạm	noun
+1424	1665	đẩy mạnh	verb
+1425	1662	phương án	noun
+1426	1660	thưởng	verb
+1427	1659	đôi khi	adverb
+1428	1659	ăn uống	verb
+1429	1655	phong phú	adjective
+1430	1654	hạ	noun, proper noun, verb
+1431	1654	quen	adjective
+1432	1654	truy cập	verb
+1433	1648	kem	noun
+1434	1648	giết	verb
+1435	1647	quân sự	adjective, noun
+1436	1644	bố trí	verb
+1437	1643	chiến đấu	noun, verb
+1438	1643	cam kết	noun, verb
+1439	1642	phủ	noun, verb
+1440	1641	bền vững	adjective
+1441	1637	y	adverb, character, noun, pronoun
+1442	1634	hành trình	noun
+1443	1634	tỏ	adjective, verb
+1444	1633	hoa kỳ	proper noun
+1445	1632	ngược lại	adverb
+1446	1631	thái	adjective, noun, proper noun, verb
+1447	1631	thi công	verb
+1448	1630	ghi nhận	verb
+1449	1628	chứng khoán	noun
+1450	1627	sáu	numeral
+1451	1627	khuyên	noun, verb
+1452	1625	nhảy	verb
+1453	1624	dương	adjective, affix, noun, proper noun
+1454	1622	miêu tả	verb
+1455	1620	bớt	noun, verb
+1456	1620	tình huống	noun
+1457	1619	hợp	adjective, noun, verb
+1458	1619	vật chất	noun
+1459	1616	đào	noun, verb
+1460	1615	khuyến khích	verb
+1461	1614	đua	verb
+1462	1613	chỉ tiêu	noun
+1463	1612	dự báo	verb
+1464	1611	khảo sát	noun, verb
+1465	1608	ý thức	noun, verb
+1466	1607	cảng	noun
+1467	1607	mua sắm	verb
+1468	1607	diễn đàn	noun
+1469	1605	tắt	adjective, verb
+1470	1598	pin	noun
+1471	1598	tiếp xúc	verb
+1472	1597	clb	noun
+1473	1597	tài năng	noun
+1474	1591	não	noun
+1475	1591	tương đương	adjective, conjunction
+1476	1591	giao lưu	verb
+1477	1590	ống	noun
+1478	1590	lực	noun, proper noun
+1479	1590	nhấn mạnh	verb
+1480	1588	quan sát	noun, verb
+1481	1588	tốt đẹp	adjective
+1482	1587	vui vẻ	adjective
+1483	1586	tổng	noun, prefix
+1484	1586	nâng cấp	verb
+1485	1585	mới đây	adverb
+1486	1585	kinh	adjective, adverb, noun, verb
+1487	1579	hài lòng	adjective
+1488	1577	chảy	verb
+1489	1577	chứng minh	noun, verb
+1490	1576	nghiêm trọng	adjective
+1491	1576	chở	verb
+1492	1573	chiếu	noun, verb
+1493	1570	thất bại	noun, verb
+1494	1569	triển lãm	noun, verb
+1495	1566	nhận định	verb
+1496	1566	thay vì	preposition
+1497	1564	ngọn	classifier, noun
+1498	1563	tiêu	noun, proper noun, verb
+1499	1562	hộp	noun
+1500	1562	trình	noun, proper noun, verb
+1501	1559	bông	classifier, noun
+1502	1557	file	noun
+1503	1557	doanh thu	noun
+1504	1554	tài nguyên	noun
+1505	1553	cố	adjective, noun, prefix, verb
+1506	1553	vận tải	verb
+1507	1550	diện	adjective, noun, verb
+1508	1549	kinh phí	noun
+1509	1546	mai	noun, proper noun
+1510	1546	trái tim	noun
+1511	1545	tiêu chí	noun
+1512	1543	thở	verb
+1513	1543	ưu tiên	adjective, verb
+1514	1541	áp lực	adjective, noun
+1515	1540	xuất	verb
+1516	1540	hại	noun, verb
+1517	1538	quy trình	noun
+1518	1537	đặc trưng	noun
+1519	1536	nguyên tắc	noun
+1520	1535	phạm	noun, proper noun, verb
+1521	1532	thông	adjective, noun, proper noun, verb
+1522	1532	ban hành	verb
+1523	1531	định hướng	noun, verb
+1524	1528	tư tưởng	noun
+1525	1526	hành	noun, verb
+1526	1525	muối	adjective, noun, verb
+1527	1524	vết	classifier, noun
+1528	1523	kim	noun, proper noun
+1529	1523	trừ	verb
+1530	1523	tự hào	adjective
+1531	1523	thử nghiệm	noun
+1532	1523	nghị quyết	noun
+1533	1522	nhựa	adjective, noun
+1534	1522	hạ tầng	noun, verb
+1535	1521	kế toán	noun
+1536	1518	treo	verb
+1537	1517	ôm	noun, verb
+1538	1517	vô	interjection, particle, prefix, preposition, verb
+1539	1516	sợi	classifier, noun
+1540	1514	nổ	verb
+1541	1511	đồng ý	verb
+1542	1511	đa	noun, prefix
+1543	1510	nối	verb
+1544	1507	vận chuyển	verb
+1545	1505	tròn	adjective, adverb
+1546	1505	nhiễm	verb
+1547	1502	giường	noun
+1548	1502	mềm	adjective
+1549	1502	căng thẳng	adjective
+1550	1501	mỏng	adjective
+1551	1496	lập tức	adverb
+1552	1493	sân khấu	noun
+1553	1492	thói quen	noun
+1554	1491	tưởng	proper noun, verb
+1555	1491	thời tiết	noun
+1556	1491	tiềm năng	noun
+1557	1491	thoả thuận	verb
+1558	1491	chứng nhận	verb
+1559	1488	đền	noun, verb
+1560	1488	chặt chẽ	adjective, adverb
+1561	1485	nụ	classifier, noun
+1562	1483	đ	character
+1563	1483	tuyển sinh	noun, verb
+1564	1482	giày	noun, verb
+1565	1482	thi đua	noun, verb
+1566	1481	biểu diễn	verb
+1567	1480	vi	prefix
+1568	1480	dày	adjective
+1569	1480	vy	proper noun
+1570	1479	vải	noun
+1571	1479	tiệc	noun
+1572	1479	nhận xét	noun, verb
+1573	1475	khai	adjective, verb
+1574	1474	cộng	conjunction, verb
+1575	1474	hải phòng	proper noun
+1576	1474	thằng	classifier
+1577	1473	nói chuyện	noun, verb
+1578	1471	phụ huynh	noun
+1579	1469	đa số	noun
+1580	1468	ô	adjective, character, interjection, noun
+1581	1468	mặt trời	proper noun
+1582	1465	lan	noun, proper noun, verb
+1583	1465	mô tả	verb
+1584	1463	năm ngoái	noun
+1585	1458	ngắm	verb
+1586	1457	lệnh	noun
+1587	1456	người yêu	noun
+1588	1453	quyết tâm	verb
+1589	1453	cài đặt	verb
+1590	1452	yêu thương	verb
+1591	1451	lũ	noun
+1592	1449	chào	interjection, verb
+1593	1449	cấm	adverb, verb
+1594	1448	thuyền	noun
+1595	1448	hàng loạt	noun
+1596	1448	dân cư	noun
+1597	1447	văn học	noun, proper noun
+1598	1447	biểu hiện	noun, verb
+1599	1447	học bổng	noun
+1600	1446	dọc	adverb, noun, preposition
+1601	1446	huy động	verb
+1602	1444	nhân lực	noun
+1603	1443	vỡ	adjective, verb
+1604	1440	khớp	noun, verb
+1605	1438	động cơ	noun
+1606	1437	xứ	noun
+1607	1436	sửa	verb
+1608	1436	thua	verb
+1609	1436	tin tưởng	verb
+1610	1434	xe máy	noun
+1611	1434	tiểu học	noun
+1612	1432	chuột	noun
+1613	1432	mơ	noun, verb
+1614	1431	sắt	adjective, noun
+1615	1430	dấu	noun
+1616	1430	danh hiệu	noun
+1617	1428	dũng	noun, proper noun
+1618	1428	cô giáo	noun
+1619	1428	thuỷ sản	noun
+1620	1426	toàn quốc	adjective, adverb, noun
+1621	1425	phụ thuộc	verb
+1622	1425	nền tảng	noun
+1623	1424	phi	adjective, conjunction, noun, prefix, proper noun, verb
+1624	1424	đam mê	verb
+1625	1421	kích thích	noun, verb
+1626	1420	vô địch	adjective, verb
+1627	1420	giá cả	noun
+1628	1418	ưu đãi	noun, verb
+1629	1415	toán	noun
+1630	1415	gương mặt	noun
+1631	1414	thị xã	noun
+1632	1413	co	noun, verb
+1633	1410	đốt	noun, verb
+1634	1410	quê hương	noun
+1635	1410	chẳng hạn	adverb
+1636	1410	giảng viên	noun
+1637	1408	so sánh	noun, verb
+1638	1406	chủ nghĩa	noun
+1639	1405	chuyên ngành	adjective, noun
+1640	1405	lâu dài	adjective
+1641	1401	đĩa	noun
+1642	1401	trường học	noun
+1643	1401	chứng	noun, verb
+1644	1400	đặc điểm	noun
+1645	1400	cột	noun, verb
+1646	1399	người thân	noun
+1647	1398	bụi	adjective, noun
+1648	1398	ơi	particle
+1649	1398	nhắn	verb
+1650	1396	tiếp nhận	verb
+1651	1395	cú	classifier, interjection, noun, verb
+1652	1394	đỉnh	adjective, noun
+1653	1394	phạt	verb
+1654	1391	đập	noun, verb
+1655	1390	khúc	noun, proper noun
+1656	1389	trò	noun
+1657	1387	chủ trương	noun, verb
+1658	1383	t	character, pronoun
+1659	1383	mạch	noun
+1660	1383	cụm	noun
+1661	1382	trống	adjective, noun
+1662	1382	giáp	noun, proper noun, verb
+1663	1381	vũ khí	noun
+1664	1379	bạc	adjective, noun
+1665	1379	béo	adjective, verb
+1666	1379	ạ	character, particle, verb
+1667	1377	rủi ro	adjective, noun
+1668	1377	bởi vì	conjunction
+1669	1375	cần thơ	proper noun
+1670	1367	tượng	noun
+1671	1367	thiết lập	verb
+1672	1365	thiệt hại	noun, verb
+1673	1364	đảng viên	noun
+1674	1363	sửa chữa	verb
+1675	1361	gọn	adjective, verb
+1676	1357	bàn tay	noun
+1677	1356	tình dục	noun
+1678	1353	rộng rãi	adjective
+1679	1351	súng	noun
+1680	1351	tách	noun, verb
+1681	1350	chấm	noun, verb
+1682	1350	tính chất	noun
+1683	1349	vì sao	adverb
+1684	1348	âm	adjective, noun, prefix
+1685	1344	xác nhận	verb
+1686	1342	an	adjective, proper noun
+1687	1342	nghĩa	noun, proper noun
+1688	1342	vận hành	verb
+1689	1341	cờ	noun
+1690	1340	bí thư	noun
+1691	1340	bối cảnh	noun
+1692	1339	giây	noun
+1693	1339	dây	noun, verb
+1694	1339	trị giá	verb
+1695	1338	khối lượng	noun
+1696	1338	đậm	adjective, adverb
+1697	1336	hậu quả	noun
+1698	1335	mực	adjective, noun, proper noun
+1699	1335	chiến dịch	noun
+1700	1334	giải phóng	verb
+1701	1334	triệu chứng	noun
+1702	1334	phấn đấu	verb
+1703	1333	lịch	adjective, noun
+1704	1330	đề án	noun
+1705	1327	phóng viên	noun
+1706	1326	giao tiếp	verb
+1707	1326	trị	verb
+1708	1325	mục	adjective, noun
+1709	1323	lao	noun, verb
+1710	1323	động vật	noun
+1711	1320	đậu	noun, verb
+1712	1318	tan	verb
+1713	1318	bám	verb
+1714	1316	than	noun, verb
+1715	1315	hiển thị	verb
+1716	1314	mệt mỏi	adjective
+1717	1314	mua bán	verb
+1718	1312	lọc	adjective, verb
+1719	1312	tuấn	proper noun
+1720	1309	thách thức	noun, verb
+1721	1309	chuyển đổi	verb
+1722	1308	thuỷ	adjective, noun, proper noun
+1723	1307	môi	noun
+1724	1307	kết luận	noun, verb
+1725	1306	biểu tượng	noun
+1726	1304	lào	proper noun
+1727	1304	nhà văn	noun
+1728	1304	tính toán	verb
+1729	1303	tương đối	adjective, adverb
+1730	1302	chú trọng	verb
+1731	1297	tất nhiên	adverb
+1732	1297	vụ việc	noun
+1733	1294	tội	adjective, noun
+1734	1293	nhiệt tình	adjective, adverb
+1735	1291	la	noun, proper noun, verb
+1736	1290	tích hợp	verb
+1737	1288	ly	noun, proper noun
+1738	1288	chờ đợi	verb
+1739	1288	tài trợ	verb
+1740	1287	dân chủ	adjective, noun
+1741	1285	tâm sự	noun, verb
+1742	1285	anh hùng	adjective, noun
+1743	1285	chứng kiến	verb
+1744	1284	lô	classifier
+1745	1283	thời hạn	noun
+1746	1282	bài học	noun
+1747	1281	đài	adjective, noun
+1748	1280	tủ	noun, verb
+1749	1279	thực	adjective
+1750	1279	thực hành	noun, verb
+1751	1275	di tích	noun
+1752	1274	toàn diện	adjective, adverb
+1753	1273	ruột	adjective, noun
+1754	1273	kể cả	adverb, verb
+1755	1272	dao	noun, proper noun
+1756	1272	vươn	verb
+1757	1270	hẹn	noun, verb
+1758	1267	sắp xếp	verb
+1759	1264	thư viện	noun
+1760	1263	bia	noun
+1761	1263	phục hồi	verb
+1762	1260	trôi	adjective, adverb, noun, verb
+1763	1260	loạt	noun
+1764	1258	khâu	noun, verb
+1765	1256	phiếu	noun, verb
+1766	1254	tiếc	verb
+1767	1253	bật	verb
+1768	1253	liên lạc	verb
+1769	1252	thức	noun, verb
+1770	1252	phòng chống	verb
+1771	1250	giáo sư	noun
+1772	1247	siêu thị	noun
+1773	1247	ngọt	adjective
+1774	1245	chiến sĩ	noun
+1775	1243	cân bằng	adjective, noun, verb
+1776	1241	kín	adjective
+1777	1241	sâu sắc	adjective
+1778	1240	linh	adjective, numeral, proper noun
+1779	1238	quen thuộc	adjective
+1780	1237	mụn	noun
+1781	1237	thừa nhận	verb
+1782	1237	chung cư	noun
+1783	1236	quốc phòng	noun
+1784	1235	mây	noun
+1785	1232	mỡ	noun
+1786	1230	không những	conjunction
+1787	1230	công suất	noun
+1788	1229	chức	noun
+1789	1228	hôm qua	noun
+1790	1228	phạm vi	noun
+1791	1227	độc	adjective, noun
+1792	1227	đỗ	noun, verb
+1793	1225	phổ thông	adjective
+1794	1225	dựng	verb
+1795	1225	chăn nuôi	verb
+1796	1224	xuất bản	verb
+1797	1224	đại lý	noun
+1798	1222	nước mắt	noun
+1799	1219	nghiêm túc	adjective
+1800	1219	tuyển dụng	verb
+1801	1219	liên tiếp	adjective
+1802	1219	hiệp hội	noun
+1803	1218	cấu trúc	noun, verb
+1804	1218	lính	noun
+1805	1218	giảm giá	verb
+1806	1217	địch	noun, verb
+1807	1217	vững	adjective
+1808	1217	lưu trữ	verb
+1809	1215	ngoại giao	noun
+1810	1213	thờ	verb
+1811	1212	tiến sĩ	noun
+1812	1211	nướng	verb
+1813	1210	vui lòng	adjective
+1814	1210	thận	noun
+1815	1208	nấm	noun
+1816	1208	đáp	verb
+1817	1207	đợi	verb
+1818	1206	lưới	noun
+1819	1206	quần	noun, verb
+1820	1203	số liệu	noun
+1821	1202	nghiệp vụ	noun
+1822	1201	thả	verb
+1823	1199	ga	noun
+1824	1198	chung kết	noun
+1825	1198	học trò	noun
+1826	1198	xinh đẹp	adjective
+1827	1198	phản ánh	verb
+1828	1196	giao diện	noun
+1829	1196	động viên	verb
+1830	1196	bồi dưỡng	verb
+1831	1195	truyện	noun
+1832	1195	dư luận	noun
+1833	1194	đo	verb
+1834	1192	đoàn kết	verb
+1835	1191	lông	noun
+1836	1191	mừng	adjective, verb
+1837	1191	thân thiện	adjective
+1838	1190	đòi	verb
+1839	1190	tổ quốc	noun
+1840	1185	một mình	adverb
+1841	1183	ép	noun, verb
+1842	1183	thái độ	noun, verb
+1843	1183	thừa	adjective, adverb, noun, verb
+1844	1181	giới hạn	noun
+1845	1180	chương	noun, proper noun
+1846	1179	bình dương	proper noun
+1847	1178	ô nhiễm	adjective, noun
+1848	1176	loại bỏ	verb
+1849	1175	đình	noun
+1850	1174	cam	adjective, noun, verb
+1851	1174	phương thức	noun
+1852	1174	dự thảo	noun, verb
+1853	1173	xoay	noun, verb
+1854	1172	du học	verb
+1855	1170	nhiệt	adjective, noun
+1856	1170	ma tuý	noun
+1857	1170	đồng bào	noun
+1858	1170	ngài	noun, pronoun
+1859	1167	lộ	noun, verb
+1860	1167	cơ cấu	noun
+1861	1166	sinh học	noun
+1862	1166	ngăn chặn	verb
+1863	1166	tổn thương	noun, verb
+1864	1164	d	character
+1865	1164	bảy	numeral
+1866	1162	cỏ	adjective, noun
+1867	1160	công viên	noun
+1868	1159	từ chối	verb
+1869	1159	phân biệt	verb
+1870	1158	bí mật	adjective, noun
+1871	1156	đạo diễn	noun, verb
+1872	1156	tiến độ	noun
+1873	1155	chó	noun, proper noun
+1874	1154	khủng hoảng	noun
+1875	1154	đối mặt	verb
+1876	1153	chỉ huy	noun, verb
+1877	1151	cao su	adjective, noun
+1878	1151	khổ	adjective, interjection, noun
+1879	1149	kiểu dáng	noun
+1880	1148	giờ đây	adverb
+1881	1147	cướp	noun, verb
+1882	1146	khen	verb
+1883	1146	tình nguyện	verb
+1884	1141	ngựa	adjective, noun, proper noun
+1885	1141	mọc	noun, verb
+1886	1141	phỏng vấn	noun, verb
+1887	1141	thu hồi	verb
+1888	1141	vùng đất	noun
+1889	1140	sáng tác	verb
+1890	1139	cửa sổ	noun
+1891	1138	trộn	verb
+1892	1135	dáng	noun
+1893	1132	thực vật	noun
+1894	1129	học viện	noun
+1895	1129	đồng nghiệp	adjective, noun
+1896	1129	bạn đọc	noun
+1897	1128	bấm	noun, verb
+1898	1128	khuôn mặt	noun
+1899	1127	lò	noun, verb
+1900	1124	tử vong	verb
+1901	1124	sửa đổi	verb
+1902	1124	trưởng thành	adjective, verb
+1903	1123	bang	noun, verb
+1904	1123	võ	adjective, noun, proper noun
+1905	1123	hơn nữa	adverb
+1906	1122	xếp hạng	verb
+1907	1120	chuỗi	noun
+1908	1120	khoảng cách	noun
+1909	1120	nguồn gốc	noun
+1910	1120	vất vả	adjective
+1911	1119	lái	noun, verb
+1912	1119	mô	noun, particle, pronoun
+1913	1119	sự cố	noun
+1914	1119	trước hết	adverb
+1915	1119	ngăn	noun, verb
+1916	1119	công chức	noun
+1917	1118	xuyên	noun, proper noun, verb
+1918	1117	thú	adjective, noun, proper noun, verb
+1919	1117	cảnh báo	noun, verb
+1920	1116	mộ	noun
+1921	1116	thẩm mỹ	noun, verb
+1922	1115	ước mơ	noun, verb
+1923	1114	gạch	noun, verb
+1924	1114	yên	adjective, noun, proper noun
+1925	1113	ngọc	noun, proper noun
+1926	1111	cứng	adjective
+1927	1111	lão	adjective, pronoun
+1928	1111	góp	verb
+1929	1111	tuyệt	adjective, adverb, verb
+1930	1110	cẩn thận	adjective
+1931	1109	bom	noun
+1932	1107	sự thật	noun
+1933	1106	tinh tế	adjective
+1934	1105	lợi thế	noun
+1935	1104	tận dụng	verb
+1936	1103	hâm mộ	verb
+1937	1101	sốt	adjective, adverb, verb
+1938	1101	hầu như	adverb
+1939	1098	lái xe	noun, verb
+1940	1097	thoáng	adjective, noun, verb
+1941	1096	bảo tàng	noun
+1942	1096	biên giới	noun
+1943	1095	đi lại	verb
+1944	1093	trình diễn	verb
+1945	1092	nạn	noun
+1946	1091	nghỉ ngơi	verb
+1947	1090	khoe	verb
+1948	1089	ngược	adjective
+1949	1089	tư duy	noun, verb
+1950	1089	xuất phát	verb
+1951	1088	album	noun
+1952	1087	clip	noun
+1953	1087	nhịp	noun
+1954	1085	gắn bó	verb
+1955	1084	canh	noun, proper noun, verb
+1956	1083	tốn	noun, verb
+1957	1083	tuyệt đối	adjective
+1958	1083	diễn biến	noun, verb
+1959	1083	cơ quan chức năng	noun
+1960	1081	công dân	noun
+1961	1080	khó chịu	adjective
+1962	1079	ngạc nhiên	verb
+1963	1079	đông đảo	adjective
+1964	1077	toà án	noun
+1965	1076	đỡ	adverb, verb
+1966	1076	bày tỏ	verb
+1967	1076	rèn luyện	verb
+1968	1075	khái niệm	noun
+1969	1075	hiếm	adjective
+1970	1073	hàn	adjective, proper noun, verb
+1971	1073	hiểu biết	noun, verb
+1972	1073	sản lượng	noun
+1973	1072	đấu tranh	verb
+1974	1069	ma	noun
+1975	1069	bán lẻ	verb
+1976	1069	quyến rũ	adjective, verb
+1977	1068	hạt nhân	adjective, noun
+1978	1067	tỷ lệ	adjective, noun
+1979	1067	tín hiệu	noun
+1980	1067	phụ trách	verb
+1981	1067	tổng kết	noun, verb
+1982	1066	nghề nghiệp	noun
+1983	1064	vi khuẩn	noun
+1984	1064	ngón	noun
+1985	1064	chạm	verb
+1986	1063	hòn	classifier
+1987	1063	thẩm quyền	noun
+1988	1062	đồi	noun
+1989	1062	trụ sở	noun
+1990	1060	ven	noun
+1991	1060	mét	adjective, noun
+1992	1060	cá tính	noun
+1993	1058	tớ	pronoun
+1994	1058	khí hậu	noun
+1995	1057	hải	noun, proper noun
+1996	1057	tô	noun, proper noun, verb
+1997	1057	khổng lồ	adjective
+1998	1056	tiêu biểu	adjective, verb
+1999	1055	mặt bằng	noun
+2000	1054	mày	noun, pronoun
+2001	1054	trật tự	adjective, noun
+2002	1054	tức là	adverb, verb
+2003	1052	chia tay	verb
+2004	1050	cắm	verb
+2005	1049	dạo	noun, verb
+2006	1047	loa	noun
+2007	1046	doanh nhân	noun
+2008	1045	công khai	adjective, verb
+2009	1044	bề mặt	noun
+2010	1042	bản đồ	noun
+2011	1042	sai lầm	adjective, noun
+2012	1041	ngô	noun, proper noun
+2013	1041	tiến bộ	adjective
+2014	1041	xứng đáng	adjective, verb
+2015	1038	chi nhánh	noun
+2016	1038	cải tiến	verb
+2017	1036	thứ trưởng	noun
+2018	1034	năng động	adjective
+2019	1033	bát	noun
+2020	1031	hiệu trưởng	noun
+2021	1030	biến đổi	verb
+2022	1030	thi hành	verb
+2023	1029	gã	noun, pronoun
+2024	1029	đất đai	noun
+2025	1029	chế tạo	verb
+2026	1028	biệt thự	noun
+2027	1027	phê duyệt	verb
+2028	1027	thường trực	adjective
+2029	1026	hải quan	noun
+2030	1026	di sản	noun
+2031	1026	thần kinh	adjective, noun
+2032	1026	tội phạm	noun
+2033	1025	động lực	noun
+2034	1025	ghép	verb
+2035	1025	trạng thái	noun
+2036	1025	người mẫu	noun
+2037	1023	thcs	noun
+2038	1023	liên	noun, verb
+2039	1023	kêu gọi	verb
+2040	1023	thiết thực	adjective
+2041	1022	làm ăn	verb
+2042	1022	hoàn tất	verb
+2043	1021	lợn	noun
+2044	1020	tám	numeral, verb
+2045	1019	chế	noun, pronoun, proper noun, verb
+2046	1019	nói riêng	adverb, verb
+2047	1018	cho nên	adverb
+2048	1017	tù	adjective, noun
+2049	1017	gặp gỡ	verb
+2050	1017	tựa	noun, particle, verb
+2051	1017	điển hình	adjective, noun
+2052	1016	trại	adjective, noun, verb
+2053	1015	dung	noun, proper noun
+2054	1015	đeo	noun, verb
+2055	1015	nông	adjective, noun, proper noun
+2056	1012	tương ứng	verb
+2057	1010	ước	noun, verb
+2058	1010	người lớn	noun
+2059	1008	tiêm	verb
+2060	1008	viễn thông	noun
+2061	1007	khởi động	verb
+2062	1006	bài tập	noun
+2063	1005	đoạt	verb
+2064	1005	lắp đặt	verb
+2065	1004	hiệp	noun, proper noun, verb
+2066	1002	tu	verb
+2067	1002	trốn	verb
+2068	1002	loại hình	noun
+2069	1001	sim	noun, proper noun
+2070	1001	cử	noun, verb
+2071	1001	tiên tiến	adjective
+2072	1001	rác	noun
+2073	1001	đội tuyển	noun
+2074	1001	con cái	noun
+2075	1001	thực tiễn	adjective, noun
+2076	1000	dính	adjective, verb
+2077	1000	chúc mừng	verb
+2078	1000	phân giải	verb
+2079	998	lần lượt	adverb
+2080	998	linh hoạt	adjective
+2081	996	giấy phép	noun
+2082	996	thuận tiện	adjective
+2083	995	giảng	verb
+2084	994	thanh hoá	proper noun
+2085	994	rối loạn	adjective, noun
+2086	994	thuyết phục	verb
+2087	994	thử thách	noun, verb
+2088	993	trực thuộc	verb
+2089	992	ấm áp	adjective
+2090	992	quy chế	noun
+2091	991	vân	noun, proper noun
+2092	991	lãng mạn	adjective
+2093	990	trúng	verb
+2094	990	luôn luôn	adverb
+2095	989	tôn	adjective, noun, proper noun, verb
+2096	989	tông	noun, verb
+2097	989	suối	noun
+2098	989	trí tuệ	noun
+2099	987	hội viên	noun
+2100	986	quảng nam	proper noun
+2101	985	luật sư	noun
+2102	985	ghé	verb
+2103	985	nhân dịp	conjunction
+2104	984	gần gũi	adjective
+2105	984	mảng	noun
+2106	983	dân gian	adjective
+2107	983	phát sinh	verb
+2108	981	đáy	noun
+2109	980	thùng	noun
+2110	979	lớp học	noun
+2111	979	công thương	noun
+2112	977	the	adjective, noun
+2113	977	tăng giá	verb
+2114	976	trung học	noun
+2115	976	xoá	verb
+2116	975	dừa	noun, verb
+2117	975	dạy học	verb
+2118	974	kim loại	noun
+2119	973	nghệ an	proper noun
+2120	971	sư phạm	noun
+2121	971	sự việc	noun
+2122	971	quyền lợi	noun
+2123	970	đề cập	verb
+2124	969	tranh chấp	adjective, noun, verb
+2125	967	à	character, interjection, particle
+2126	966	khai mạc	verb
+2127	966	cải cách	noun, verb
+2128	964	đắt	adjective
+2129	964	dưỡng	verb
+2130	963	trẻ trung	adjective
+2131	962	long	adjective, proper noun
+2132	962	dán	verb
+2133	962	tiết lộ	verb
+2134	962	bỏ qua	verb
+2135	961	cho dù	conjunction
+2136	959	trái cây	noun
+2137	958	vịnh	noun
+2138	958	hiệu	noun, proper noun
+2139	957	kêu	adjective, verb
+2140	957	nhạc sĩ	noun
+2141	956	điện ảnh	noun
+2142	954	g	character, noun
+2143	953	rắn	adjective, noun
+2144	953	cựu	prefix
+2145	952	kết	noun, verb
+2146	951	hành khách	noun
+2147	951	hiệu lực	noun
+2148	950	quảng bá	verb
+2149	950	ruộng	noun
+2150	950	bình quân	adjective
+2151	949	tức	adjective, adverb
+2152	949	lãi	noun
+2153	949	lo ngại	verb
+2154	949	thắc mắc	noun, verb
+2155	949	dự đoán	noun, verb
+2156	948	cua	adjective, noun, verb
+2157	948	kiến nghị	noun, verb
+2158	947	đám cưới	noun
+2159	947	thưa	adjective, verb
+2160	946	chừng	adverb, noun, verb
+2161	945	huyết áp	noun
+2162	944	chả	adverb, noun, pronoun
+2163	944	tập luyện	verb
+2164	944	quan niệm	noun
+2165	943	thu hoạch	verb
+2166	942	suy	adjective, verb
+2167	942	cách thức	noun
+2168	941	học hỏi	verb
+2169	939	bến	noun
+2170	939	liều	noun, verb
+2171	938	bảo tồn	verb
+2172	938	đồng bộ	adjective, verb
+2173	936	tiểu	noun, verb
+2174	936	trân trọng	adjective, verb
+2175	934	vương	noun, proper noun, verb
+2176	933	xóm	noun
+2177	932	công chúng	noun
+2178	930	nha trang	proper noun
+2179	930	đe doạ	verb
+2180	930	tiện ích	adjective, noun
+2181	929	khăn	noun
+2182	929	tôn trọng	verb
+2183	928	nồi	noun
+2184	928	bảo quản	verb
+2185	927	bắt buộc	adjective, verb
+2186	927	đành	verb
+2187	926	suất	noun
+2188	926	tâm hồn	noun
+2189	926	năng suất	noun
+2190	926	tiêu cực	adjective, noun
+2191	925	mặt khác	adverb
+2192	924	heo	noun
+2193	924	sinh sống	verb
+2194	924	huấn luyện	verb
+2195	923	h	character, noun
+2196	923	phun	verb
+2197	923	đảng bộ	noun
+2198	922	hầm	noun, verb
+2199	922	thợ	adjective, noun
+2200	922	nhỉ	particle
+2201	921	lý thuyết	noun
+2202	920	luyện	verb
+2203	919	chè	noun
+2204	918	đuôi	noun
+2205	918	chiến	adjective, noun, verb
+2206	918	quang	adjective, noun, proper noun
+2207	916	thể loại	noun
+2208	914	văn nghệ	noun
+2209	913	tham nhũng	noun, verb
+2210	912	chân thành	adjective
+2211	911	lãnh thổ	noun
+2212	910	danh	noun
+2213	910	móng	noun
+2214	910	củng cố	verb
+2215	909	ấp	noun, verb
+2216	908	muộn	adjective
+2217	908	bền	adjective
+2218	906	hạn	noun
+2219	906	thấm	adjective, verb
+2220	905	giấc	classifier
+2221	905	đồ hoạ	noun
+2222	904	nếp	noun
+2223	904	giấy tờ	noun
+2224	904	đoàn viên	verb
+2225	903	tin tức	noun
+2226	903	tuổi trẻ	noun
+2227	902	đế	noun
+2228	901	tiêu hoá	verb
+2229	900	bơi	particle, verb
+2230	900	diệt	verb
+2231	900	bầu cử	verb
+2232	899	tây ban nha	adjective, proper noun
+2233	897	cô dâu	noun
+2234	897	nở	verb
+2235	896	khoẻ	adjective
+2236	896	trước mắt	noun
+2237	895	trưng bày	verb
+2238	893	nam giới	noun
+2239	891	phím	noun
+2240	890	chủ nhiệm	noun, verb
+2241	889	văn minh	adjective, noun, proper noun
+2242	887	đấu	noun, verb
+2243	887	hỗn hợp	adjective, noun
+2244	887	cổ đông	noun
+2245	887	hiến	proper noun, verb
+2246	886	độc giả	noun
+2247	885	bảo mật	verb
+2248	883	dãy	noun
+2249	882	nha	particle
+2250	880	men	noun, verb
+2251	880	tia	noun
+2252	879	múa	verb
+2253	879	kỷ lục	noun
+2254	877	giãn	adjective
+2255	877	hôn nhân	noun
+2256	876	trò chuyện	verb
+2257	874	đàn bà	noun
+2258	874	phóng	verb
+2259	874	phụ kiện	noun
+2260	873	mổ	verb
+2261	873	nghi ngờ	verb
+2262	872	chặng	noun
+2263	872	sưu tập	noun, verb
+2264	871	xe đạp	noun
+2265	870	hương vị	noun
+2266	869	chứng tỏ	verb
+2267	869	trang điểm	verb
+2268	868	nặng nề	adjective, adverb
+2269	867	tối thiểu	adjective, adverb
+2270	866	đói	adjective
+2271	866	cộng sản	adjective, noun
+2272	866	quá khứ	noun
+2273	866	chấm dứt	verb
+2274	865	che	verb
+2275	865	củ	classifier, noun
+2276	865	lạc	adjective, noun, proper noun, verb
+2277	865	hiến pháp	noun
+2278	863	đà	noun
+2279	863	đánh dấu	verb
+2280	863	quảng ninh	proper noun
+2281	863	chấn thương	adjective, noun
+2282	863	uỷ viên	noun
+2283	862	nhãn	noun
+2284	861	hôn	noun, particle
+2285	861	chủ trì	verb
+2286	861	sư	noun
+2287	860	hứa	proper noun, verb
+2288	860	hoá chất	noun
+2289	859	ao	noun, verb
+2290	857	sổ	noun, verb
+2291	857	đồng đội	noun
+2292	856	khói	noun
+2293	856	kế	adjective, adverb, noun, suffix
+2294	856	tổng cục	noun
+2295	855	lạm phát	noun
+2296	855	cấp cứu	verb
+2297	855	uỷ	verb
+2298	854	thời đại	noun
+2299	854	phát động	verb
+2300	853	má	noun
+2301	853	chúa	adjective, adverb, noun, proper noun
+2302	853	hiền	adjective, proper noun
+2303	852	hà tĩnh	proper noun
+2304	852	gánh	noun, verb
+2305	850	rồng	noun
+2306	850	công cộng	adjective
+2307	849	mở cửa	verb
+2308	848	đựng	verb
+2309	847	lứa	noun
+2310	847	dẫn đầu	verb
+2311	845	to lớn	adjective
+2312	845	làm chủ	verb
+2313	843	vậy mà	conjunction
+2314	842	vang	noun, verb
+2315	842	hoa hậu	noun
+2316	842	xét nghiệm	verb
+2317	841	fan	noun
+2318	841	hậu	noun, prefix, proper noun
+2319	841	cấu hình	noun
+2320	839	xác	noun
+2321	838	k	character, noun, particle
+2322	838	hứa hẹn	noun, verb
+2323	838	buôn bán	verb
+2324	837	tên tuổi	noun
+2325	836	ngâm	verb
+2326	836	mỏ	noun
+2327	836	nhân sự	noun
+2328	835	tím	adjective
+2329	834	can thiệp	verb
+2330	833	săn	adjective, verb
+2331	832	ước tính	verb
+2332	831	trâu	adjective, noun
+2333	831	hữu ích	adjective
+2334	831	tin cậy	verb
+2335	830	u	character, noun, verb
+2336	830	thuận	adjective, verb
+2337	829	hà	noun, proper noun, verb
+2338	829	tỉnh uỷ	noun
+2339	828	lít	noun
+2340	828	công thức	noun
+2341	827	thổi	verb
+2342	827	dụng cụ	noun
+2343	827	thông điệp	noun
+2344	826	khoẻ mạnh	adjective
+2345	826	ẩm	adjective
+2346	826	giám khảo	noun
+2347	825	đối phương	noun
+2348	824	nhạy cảm	adjective
+2349	824	khuyến mãi	verb
+2350	824	bí quyết	noun
+2351	824	vui chơi	verb
+2352	823	kỳ vọng	noun, verb
+2353	822	đạn	noun
+2354	821	non	adjective, noun
+2355	821	tên lửa	noun
+2356	821	đảng uỷ	noun
+2357	820	ý định	noun
+2358	820	tư nhân	adjective, noun
+2359	819	chai	adjective, noun
+2360	819	đô	adjective, noun
+2361	818	phổi	noun
+2362	818	vững chắc	adjective
+2363	818	khiếu nại	verb
+2364	816	ngoại ngữ	noun
+2365	816	hội nhập	verb
+2366	816	mầm non	noun
+2367	815	cuộc chiến	noun
+2368	814	bỗng	adverb
+2369	814	nhiên liệu	noun
+2370	814	tiết mục	noun
+2371	813	tre	noun
+2372	813	đại tướng	noun
+2373	813	thao tác	verb
+2374	812	trọng lượng	noun
+2375	812	rực rỡ	adjective
+2376	811	nhì	numeral
+2377	811	dạ dày	noun
+2378	810	ném	verb
+2379	810	thị	noun, pronoun, proper noun
+2380	810	giọt	noun, verb
+2381	808	gam	noun
+2382	808	thăng long	noun, proper noun
+2383	808	đuổi	verb
+2384	807	tân	adjective, prefix, proper noun
+2385	806	ngại	adjective, verb
+2386	805	cáp	noun
+2387	805	mạng lưới	noun
+2388	805	đồng bằng	noun
+2389	805	bộ môn	noun
+2390	804	vũ trụ	noun
+2391	804	sôi động	adjective
+2392	804	máy chủ	noun
+2393	803	tiên	adverb, noun, proper noun
+2394	802	mốc	adjective, noun
+2395	802	nguồn lực	noun
+2396	801	sốc	adjective, noun, verb
+2397	800	ô tô	noun
+2398	800	đối diện	adjective, verb
+2399	799	vinh	noun, proper noun
+2400	798	cộng hoà	noun
+2401	798	bồi thường	verb
+2402	798	đằng	noun
+2403	798	đàm phán	verb
+2404	798	nghị định	noun
+2405	797	hang	noun
+2406	797	triều tiên	proper noun
+2407	797	chứng chỉ	noun
+2408	797	nội bộ	adjective
+2409	796	tổng thể	adjective, noun
+2410	796	cư dân	noun
+2411	795	mũ	noun, preposition
+2412	795	ưu điểm	noun
+2413	795	hiệu ứng	noun
+2414	795	tuy vậy	adverb
+2415	794	tiền đạo	noun
+2416	793	bình luận	verb
+2417	793	nhà thơ	noun
+2418	793	anh chàng	noun
+2419	791	ảo	adjective
+2420	791	chi bộ	noun
+2421	790	thí nghiệm	noun
+2422	788	thuốc lá	noun
+2423	788	giấu	verb
+2424	788	phật giáo	noun
+2425	787	căng	adjective, noun, verb
+2426	785	cài	verb
+2427	785	điện lực	adjective, noun
+2428	783	triều	adjective, noun, proper noun
+2429	783	trước đây	adverb
+2430	782	lọt	verb
+2431	782	lắng nghe	verb
+2432	782	phần nào	adverb
+2433	782	môn học	noun
+2434	780	cố định	adjective, verb
+2435	779	gối	noun, verb
+2436	779	mượn	verb
+2437	778	sinh thái	noun
+2438	777	chip	noun
+2439	777	ẩm thực	noun
+2440	776	tháp	noun
+2441	775	hy vọng	noun, verb
+2442	774	ốc	noun
+2443	774	mâu thuẫn	noun
+2444	774	quyền lực	noun
+2445	774	tây nguyên	proper noun
+2446	774	học phí	noun
+2447	773	khắc	adverb, noun, verb
+2448	773	trục	noun, verb
+2449	772	kỹ sư	noun
+2450	772	quốc lộ	noun
+2451	772	bộ đội	noun
+2452	772	xả	verb
+2453	772	nghĩa vụ	noun
+2454	771	mèo	noun, proper noun, verb
+2455	771	ngõ	noun
+2456	770	đẻ	adjective, verb
+2457	770	cúm	noun
+2458	769	hán	adjective, noun, proper noun
+2459	769	điện thoại di động	noun
+2460	769	cỡ	adverb, noun
+2461	768	thắng lợi	noun
+2462	768	lành	adjective, verb
+2463	768	giá thành	noun
+2464	766	lẽ	adjective, noun
+2465	766	vũng tàu	proper noun
+2466	766	bình chọn	verb
+2467	765	quyển	classifier
+2468	765	chinh phục	verb
+2469	765	bảo hành	noun
+2470	763	thang	noun
+2471	763	cong	adjective, noun
+2472	763	trang chủ	noun
+2473	763	đẳng cấp	adjective, noun
+2474	761	đóng cửa	verb
+2475	761	toàn thể	adjective, noun
+2476	760	cành	noun
+2477	759	hoà bình	noun, proper noun
+2478	759	máy ảnh	noun
+2479	759	hành tinh	noun
+2480	758	bức xúc	adjective
+2481	756	trượt	verb
+2482	755	thành tựu	noun
+2483	755	kháng chiến	noun, verb
+2484	754	bị cáo	noun, pronoun
+2485	754	phó giám đốc	noun
+2486	754	thường vụ	adjective
+2487	753	áp	noun, verb
+2488	753	trộm	noun, verb
+2489	753	từ thiện	adjective
+2490	753	chẩn đoán	noun, verb
+2491	753	hỏng	adjective
+2492	752	mặt trận	noun
+2493	751	bút	noun
+2494	751	gia cầm	noun
+2495	751	gia nhập	verb
+2496	750	đồ chơi	noun
+2497	750	nội địa	adjective, noun
+2498	749	hải quân	noun
+2499	749	chìm	verb
+2500	749	mềm mại	adjective
+2501	748	lâm	proper noun, verb
+2502	748	tử	noun, verb
+2503	748	thu thập	verb
+2504	748	tính cách	noun
+2505	748	dung lượng	noun
+2506	747	bơm	noun, verb
+2507	747	nâu	adjective
+2508	746	hiếu	adjective, noun, proper noun, verb
+2509	745	bản chất	noun
+2510	745	bày	verb
+2511	745	bất thường	adjective
+2512	744	nhà báo	noun
+2513	744	lỡ	adjective, adverb, verb
+2514	744	theo đuổi	verb
+2515	743	say	adjective, adverb
+2516	742	tuyết	noun, proper noun
+2517	742	duyên	noun, proper noun
+2518	741	huyền thoại	noun
+2519	741	ngày xưa	adverb
+2520	740	dược	noun
+2521	740	quan chức	noun
+2522	739	sử	noun
+2523	739	phản đối	noun, verb
+2524	738	dâu	noun
+2525	738	vội	adjective
+2526	738	giâu	noun
+2527	737	phơi	verb
+2528	737	vật lý	noun
+2529	737	tiệm	noun
+2530	736	tao	pronoun
+2531	736	xúc động	verb
+2532	735	táo	noun
+2533	735	công bằng	adjective
+2534	734	hẹp	adjective
+2535	734	thoả mãn	verb
+2536	734	cống hiến	noun, verb
+2537	734	hoàn chỉnh	adjective, verb
+2538	733	l	character
+2539	733	cước	adjective, noun
+2540	731	tv	noun
+2541	731	tinh	adjective, noun
+2542	731	tràn	noun, verb
+2543	730	dần dần	adverb
+2544	730	đồng hành	verb
+2545	730	chỉ định	adjective, noun, verb
+2546	728	đâm	verb
+2547	728	nén	classifier, noun, verb
+2548	726	lam	adjective, noun
+2549	726	mồ hôi	noun
+2550	725	công sở	noun
+2551	724	thích thú	verb
+2552	724	phê bình	noun, verb
+2553	724	đội hình	noun
+2554	723	kỷ luật	noun
+2555	722	quyết liệt	adjective, adverb
+2556	722	khen thưởng	verb
+2557	721	leo	verb
+2558	721	giữ gìn	verb
+2559	721	đoán	verb
+2560	721	lành mạnh	adjective
+2561	720	nắm bắt	verb
+2562	719	chuối	adjective, noun
+2563	719	nhà thờ	noun
+2564	719	chuyển động	verb
+2565	719	tư pháp	adjective
+2566	718	đặc sắc	adjective
+2567	717	o	character, classifier, noun, pronoun
+2568	716	hàm lượng	noun
+2569	716	biến động	noun, verb
+2570	715	new york	noun
+2571	715	n	character
+2572	715	bản quyền	adjective, noun
+2573	715	khéo léo	adjective
+2574	715	xử phạt	verb
+2575	715	đón nhận	verb
+2576	715	trụ	noun, verb
+2577	713	đường phố	noun
+2578	713	nghiêng	adjective, noun
+2579	713	hoàn	adjective, noun, verb
+2580	712	van	noun, verb
+2581	712	bọc	noun, verb
+2582	712	chuông	noun
+2583	712	dự định	noun, verb
+2584	712	cử tri	noun
+2585	711	thuỷ điện	noun
+2586	710	chanh	noun, pronoun
+2587	710	dung dịch	noun
+2588	710	lương thực	noun
+2589	709	vạn	noun, numeral
+2590	709	nạp	verb
+2591	708	thất vọng	adjective, noun
+2592	708	tiện lợi	adjective
+2593	708	làm nên	verb
+2594	707	bể	adjective, noun, verb
+2595	707	thắt	verb
+2596	706	lên tiếng	verb
+2597	706	ngành nghề	noun
+2598	706	cải tạo	verb
+2599	706	tối ưu	adjective
+2600	705	tri thức	noun
+2601	705	đầu vào	noun
+2602	704	dàn	verb
+2603	704	thiếu nhi	adjective, noun
+2604	703	tiện	adjective, adverb, verb
+2605	703	chủ quyền	noun
+2606	703	phó thủ tướng	noun
+2607	702	cập	verb
+2608	701	lưỡi	noun
+2609	701	mươi	numeral
+2610	701	biểu tình	noun, verb
+2611	701	tuân thủ	verb
+2612	701	ứng viên	noun
+2613	700	lát	noun, verb
+2614	700	trương	proper noun, verb
+2615	700	ngọt ngào	adjective
+2616	700	tin học	noun
+2617	700	nhãn hiệu	noun
+2618	699	lai	adjective, noun, verb
+2619	698	pháo	noun
+2620	698	kết hôn	verb
+2621	698	tiêu diệt	verb
+2622	697	mi	noun, pronoun, verb
+2623	697	bẩn	adjective
+2624	697	ngờ	verb
+2625	694	p	character
+2626	694	tui	pronoun
+2627	694	phúc	adjective, noun, proper noun
+2628	694	trọng tâm	noun
+2629	694	mong đợi	verb
+2630	693	tại chỗ	adjective
+2631	693	vở	classifier, noun
+2632	692	song song	adjective, adverb
+2633	692	trợ giúp	verb
+2634	691	dự trữ	noun, verb
+2635	690	dốc	noun, verb
+2636	689	để ý	verb
+2637	689	danh mục	noun
+2638	688	bằng chứng	noun
+2639	688	ban chấp hành	noun
+2640	687	tập hợp	noun, verb
+2641	687	quảng ngãi	proper noun
+2642	687	lưu thông	verb
+2643	687	viên chức	noun
+2644	687	kịch bản	noun
+2645	685	tiểu thuyết	noun
+2646	685	khơi	adjective, noun, verb
+2647	685	lấp	verb
+2648	685	lắp	verb
+2649	685	thẩm định	verb
+2650	685	thực ra	adverb
+2651	684	tán	noun, verb
+2652	684	tử cung	noun
+2653	684	đột phá	noun, verb
+2654	684	cân nhắc	verb
+2655	683	voi	noun
+2656	683	sạch sẽ	adjective
+2657	682	cổ điển	adjective
+2658	682	kiện	classifier, noun, verb
+2659	682	thông tư	noun
+2660	681	tiền vệ	noun
+2661	680	bùi	adjective, noun, proper noun
+2662	680	máy móc	adjective, noun
+2663	679	bắc kinh	proper noun
+2664	679	đồng tiền	noun
+2665	679	hạ long	proper noun
+2666	678	quần chúng	noun
+2667	676	du	proper noun
+2668	676	chua	adjective
+2669	676	chuyển giao	verb
+2670	675	ông bà	noun
+2671	675	băn khoăn	adjective
+2672	674	khoảnh khắc	noun
+2673	674	đồn	noun, verb
+2674	674	đẹp mắt	adjective
+2675	673	hài	adjective
+2676	672	quý vị	pronoun
+2677	672	tiện nghi	adjective, noun
+2678	671	hạnh	noun, proper noun
+2679	671	tương tác	adjective, noun, verb
+2680	671	kim ngạch	noun
+2681	670	tháo	verb
+2682	669	tư cách	noun
+2683	669	nhắc nhở	verb
+2684	668	ho	verb
+2685	668	tố cáo	verb
+2686	668	cảm ứng	adjective, noun
+2687	667	khách quan	adjective
+2688	666	no	adjective
+2689	666	chủ nhân	noun
+2690	666	đính	verb
+2691	665	chuyên đề	noun
+2692	664	ngư dân	noun
+2693	664	y học	noun
+2694	663	chăn	noun, verb
+2695	663	phái	noun, verb
+2696	662	tiền tệ	noun
+2697	662	thác	noun
+2698	662	hưởng ứng	verb
+2699	661	xi	noun
+2700	661	protein	noun
+2701	661	khởi đầu	noun, verb
+2702	661	hiện trường	noun
+2703	660	làm quen	verb
+2704	659	mới mẻ	adjective
+2705	659	hưu	adjective
+2706	658	axit	noun
+2707	658	chỉnh sửa	verb
+2708	658	trường sa	proper noun
+2709	657	xử	verb
+2710	657	chấp hành	verb
+2711	657	dài hạn	adjective
+2712	656	hà lan	proper noun
+2713	656	cây trồng	noun
+2714	655	lầu	noun
+2715	655	tổng cộng	verb
+2716	655	dấu ấn	noun
+2717	654	phân công	verb
+2718	653	quãng	noun
+2719	653	khởi hành	verb
+2720	653	mịn	adjective
+2721	653	trung cấp	adjective
+2722	653	vô tình	adjective, adverb
+2723	652	bi	noun, proper noun
+2724	652	thỉnh thoảng	adverb
+2725	652	xin lỗi	interjection, verb
+2726	651	nghi	verb
+2727	651	phân loại	noun, verb
+2728	651	thiện	adjective, noun, proper noun
+2729	651	sôi nổi	adjective
+2730	650	chi tiêu	noun, verb
+2731	650	đặc sản	noun
+2732	650	góp ý	verb
+2733	650	lãng phí	verb
+2734	649	tư thế	noun
+2735	649	kiểm toán	verb
+2736	648	tâm trạng	noun
+2737	648	lợi dụng	verb
+2738	648	rà soát	verb
+2739	648	bắt giữ	verb
+2740	647	mờ	adjective
+2741	647	chất béo	noun
+2742	647	bàn giao	verb
+2743	647	bình định	verb
+2744	646	mật độ	noun
+2745	646	sôi	adjective
+2746	646	thảo	adjective, noun, proper noun, verb
+2747	646	đau đớn	adjective
+2748	646	tả	adjective, noun, verb
+2749	646	chọn lựa	verb
+2750	645	tương	noun
+2751	645	sinh nhật	noun
+2752	645	vách	noun
+2753	644	lau	noun, verb
+2754	644	mật	adjective, noun
+2755	644	thay mặt	verb
+2756	642	lục	adjective, proper noun, verb
+2757	642	gia vị	noun
+2758	642	hiện thực	noun
+2759	641	giặc	noun
+2760	641	khánh hoà	proper noun
+2761	640	dệt	verb
+2762	640	mông	noun
+2763	640	chu đáo	adjective, adverb
+2764	640	đường bộ	noun
+2765	639	số phận	noun
+2766	639	khu phố	noun
+2767	639	đoàn thể	noun
+2768	638	gen	noun, verb
+2769	638	dễ thương	adjective
+2770	638	gợi cảm	adjective
+2771	637	khe	noun
+2772	637	vinh dự	noun
+2773	636	giáng sinh	noun, verb
+2774	636	xe hơi	noun
+2775	636	thái bình	adjective, proper noun
+2776	636	bộ nhớ	noun
+2777	636	ngụ	verb
+2778	635	nghiện	verb
+2779	635	gian	adjective, noun
+2780	635	trình duyệt	noun
+2781	635	tạm thời	adjective
+2782	634	dự phòng	verb
+2783	633	chán	adjective
+2784	633	ổ	character, classifier, noun
+2785	633	hải sản	noun
+2786	633	hình như	adverb
+2787	633	cân đối	adjective, verb
+2788	633	phần thưởng	noun
+2789	632	chén	noun, verb
+2790	632	sở thích	noun
+2791	631	chiêu	noun, verb
+2792	631	chào mừng	verb
+2793	631	gợi ý	verb
+2794	630	nguyện vọng	noun
+2795	629	ôn	noun, verb
+2796	629	kịch	noun
+2797	629	đắp	verb
+2798	629	cường	proper noun
+2799	628	màng	noun, verb
+2800	628	phải chăng	adjective, adverb
+2801	626	trú	verb
+2802	625	tưởng tượng	verb
+2803	625	chợt	adverb
+2804	625	ngập	adjective
+2805	625	lõi	noun
+2806	625	tiếp thị	verb
+2807	625	đặt hàng	verb
+2808	625	nuôi dưỡng	verb
+2809	625	định kỳ	adjective
+2810	625	điều lệ	noun
+2811	624	hàng không	noun
+2812	624	toạ lạc	verb
+2813	624	trích	noun, verb
+2814	624	cung ứng	verb
+2815	623	đối thoại	noun
+2816	623	qua đời	verb
+2817	623	thực chất	adverb, noun
+2818	622	vú	noun
+2819	622	đường sắt	noun
+2820	622	thải	verb
+2821	621	sợ hãi	adjective
+2822	621	quét	verb
+2823	621	chênh lệch	adjective
+2824	621	thực trạng	noun
+2825	621	tận hưởng	verb
+2826	620	bắc ninh	proper noun
+2827	620	ký kết	verb
+2828	620	kháng	noun
+2829	620	doanh số	noun
+2830	619	bàn phím	noun
+2831	619	động tác	noun
+2832	618	sứ	noun
+2833	618	huy chương	noun
+2834	618	nước thải	noun
+2835	617	trí	adjective, noun, proper noun
+2836	616	phấn	noun
+2837	616	rõ rệt	adjective
+2838	615	ngăn ngừa	verb
+2839	614	cháo	noun
+2840	614	nhạt	adjective
+2841	614	cảm hứng	noun
+2842	614	nhiếp ảnh	verb
+2843	613	cúng	verb
+2844	613	vết thương	noun
+2845	613	nhìn nhận	verb
+2846	613	tranh thủ	verb
+2847	613	bởi vậy	adverb
+2848	612	công dụng	noun
+2849	611	nho	adjective, noun
+2850	611	hài hoà	adjective
+2851	610	chí	adverb, noun, preposition, verb
+2852	610	trọng	verb
+2853	610	trùng	noun, verb
+2854	608	đun	verb
+2855	608	đúng đắn	adjective
+2856	608	kiêm	conjunction
+2857	606	khuyết tật	noun
+2858	605	vũ	adjective, noun, proper noun, verb
+2859	604	mê	verb
+2860	604	sinh sản	adjective, verb
+2861	604	giảm thiểu	verb
+2862	603	xách	verb
+2863	603	minh bạch	adjective
+2864	603	vận dụng	verb
+2865	602	ưa chuộng	verb
+2866	602	khủng	adjective
+2867	601	điền	verb
+2868	601	chủ nhật	noun
+2869	600	trăng	noun
+2870	600	nhiệt đới	noun
+2871	600	bước đầu	noun
+2872	599	miễn	conjunction, verb
+2873	599	công sức	noun
+2874	599	đặc thù	adjective, noun
+2875	598	thủ công	noun, verb
+2876	598	chuyển biến	verb
+2877	598	vật dụng	noun
+2878	597	luyện tập	verb
+2879	597	kết cấu	noun
+2880	597	minh hoạ	verb
+2881	596	vương quốc	noun
+2882	596	quần đảo	noun
+2883	595	liên bang	adjective, noun
+2884	595	nhôm	noun
+2885	595	từ bỏ	verb
+2886	594	va	verb
+2887	594	im lặng	interjection, verb
+2888	594	cà mau	proper noun
+2889	594	sân chơi	noun
+2890	593	bận rộn	adjective
+2891	593	chậu	noun
+2892	592	đánh bại	verb
+2893	592	quảng bình	proper noun
+2894	592	hàng xóm	noun
+2895	592	đại gia	noun
+2896	592	suy giảm	verb
+2897	590	hồn	noun
+2898	590	hội chợ	noun
+2899	589	bú	noun, verb
+2900	589	dư	adjective
+2901	589	tỷ số	noun
+2902	587	đại sứ	noun
+2903	587	thắp	verb
+2904	586	nghiêm	adjective, proper noun
+2905	586	bốc	adjective, noun, verb
+2906	586	chốn	noun
+2907	586	khôi phục	verb
+2908	585	chặn	verb
+2909	585	soạn	verb
+2910	585	chánh	noun
+2911	585	quỷ	noun
+2912	585	xúc tiến	verb
+2913	584	can	noun, verb
+2914	584	cúp	noun, verb
+2915	584	hình sự	adjective
+2916	583	ngươi	noun
+2917	583	dao động	verb
+2918	583	gốm	noun
+2919	582	riêng biệt	adjective
+2920	582	đăng tải	verb
+2921	581	cất	verb
+2922	581	chiến thuật	adjective, noun
+2923	581	giàu có	adjective
+2924	581	đệm	noun, verb
+2925	581	bệnh tật	noun
+2926	580	điệu	adjective, classifier, noun, verb
+2927	580	bổ	adjective, adverb, verb
+2928	580	ngọ	proper noun
+2929	579	nhân văn	adjective, noun
+2930	579	sẹo	noun
+2931	579	tích luỹ	verb
+2932	579	làng nghề	noun
+2933	578	hot	adjective
+2934	577	vắng	adjective
+2935	575	sút	verb
+2936	575	nhân tố	noun
+2937	575	bắt tay	verb
+2938	575	thận trọng	adjective
+2939	575	tiếp thu	verb
+2940	575	lưu giữ	verb
+2941	574	hư	adjective
+2942	574	vượt trội	adjective, verb
+2943	573	đinh	noun
+2944	573	lý giải	verb
+2945	573	đỉnh cao	noun
+2946	573	miễn dịch	noun
+2947	572	thảm	adjective, noun, verb
+2948	572	liệt sĩ	noun
+2949	572	chăm	adjective, noun, verb
+2950	572	tiền bạc	noun
+2951	571	dị ứng	noun
+2952	571	bí ẩn	adjective, noun
+2953	571	vui mừng	verb
+2954	571	xét xử	verb
+2955	570	thực tập	verb
+2956	570	rộng lớn	adjective
+2957	569	bó	noun, verb
+2958	569	phó	prefix, proper noun, suffix, verb
+2959	569	tẩy	noun, verb
+2960	569	bộ máy	noun
+2961	568	tích	noun, verb
+2962	568	duyệt	verb
+2963	567	kê	noun, verb
+2964	567	ẩn	adjective, noun, verb
+2965	567	thế mà	conjunction
+2966	566	rao	verb
+2967	566	hợp pháp	adjective
+2968	565	sếp	noun
+2969	565	sáng lập	verb
+2970	564	đột ngột	adverb
+2971	564	cuộn	noun, verb
+2972	564	chỉnh	adjective, verb
+2973	564	trọng điểm	noun
+2974	563	vịt	noun
+2975	563	liên minh	noun
+2976	563	đích	adjective, noun
+2977	563	đăng nhập	verb
+2978	562	đương nhiên	adjective, adverb
+2979	562	sáng kiến	noun
+2980	561	vệ tinh	noun
+2981	561	yến	noun, proper noun
+2982	561	mỹ thuật	noun
+2983	561	đệ	noun, prefix, pronoun
+2984	561	đau khổ	adjective
+2985	561	xưởng	noun
+2986	561	phản hồi	verb
+2987	560	khủng bố	verb
+2988	560	thái bình dương	proper noun
+2989	560	nồng độ	noun
+2990	559	công chúa	noun
+2991	559	nhi	conjunction, noun, proper noun
+2992	559	thái nguyên	proper noun
+2993	559	nhận biết	verb
+2994	559	trái phép	adjective
+2995	558	lạc quan	adjective
+2996	558	hiện hành	adjective
+2997	557	mặt đất	noun
+2998	557	khuôn khổ	noun
+2999	557	dịu dàng	adjective
+3000	557	kích hoạt	verb
+3001	557	tranh cãi	verb
+3002	557	dịch bệnh	noun
+3003	557	chi cục	noun
+3004	556	thể dục	noun
+3005	556	lý luận	noun
+3006	556	nhánh	adjective, noun
+3007	556	đống	noun
+3008	556	bổ nhiệm	verb
+3009	555	thông số	noun
+3010	554	hô hấp	verb
+3011	554	bác sĩ	noun
+3012	553	hổ	adjective, noun
+3013	553	thiên	noun, proper noun, verb
+3014	553	ấn	verb
+3015	553	đồng nghĩa	adjective
+3016	552	ớt	noun
+3017	552	ngầm	adjective
+3018	552	phú	noun, verb
+3019	552	lời nói	noun
+3020	552	thầy giáo	noun
+3021	552	tiến trình	noun
+3022	551	nắp	noun
+3023	551	hiện diện	verb
+3024	551	luồng	noun
+3025	551	đau đầu	verb
+3026	550	nhà hát	noun
+3027	550	thèm	verb
+3028	550	tư liệu	noun
+3029	550	cắt giảm	verb
+3030	550	khuyến mại	verb
+3031	550	triệt để	adjective, adverb
+3032	549	hàm	noun, verb
+3033	549	chém	verb
+3034	548	ngữ	noun
+3035	548	chữa trị	noun, verb
+3036	548	hải dương	noun, proper noun
+3037	548	tầng lớp	noun
+3038	547	thiếu niên	adjective, noun
+3039	547	chốt	noun, verb
+3040	547	xinh xắn	adjective
+3041	547	thị phần	noun
+3042	547	sinh động	adjective
+3043	547	cây xanh	noun
+3044	546	kỳ	adjective, conjunction, noun, proper noun, verb
+3045	546	sạc	verb
+3046	545	đan	verb
+3047	545	giây phút	noun
+3048	544	đô la	noun
+3049	543	thập niên	noun
+3050	543	rủ	verb
+3051	543	vận động viên	noun
+3052	542	danh tiếng	adjective, noun
+3053	542	phòng ngừa	verb
+3054	542	bình đẳng	adjective, noun
+3055	541	rễ	noun
+3056	541	ứng xử	verb
+3057	541	giật	verb
+3058	541	biết bao	adverb
+3059	540	rụng	verb
+3060	540	bất chấp	adjective, preposition
+3061	540	hư hỏng	adjective
+3062	540	nhà giáo	noun
+3063	539	khẩu	classifier, noun
+3064	539	đấu giá	verb
+3065	539	hữu nghị	adjective
+3066	538	tiểu đường	noun
+3067	538	vặt	adjective, verb
+3068	537	độc quyền	adjective, noun
+3069	537	biên bản	noun
+3070	536	hoa hồng	noun
+3071	536	mặn	adjective
+3072	536	tạ	noun, proper noun, verb
+3073	536	một ít	noun
+3074	536	lạp	noun
+3075	535	quyết	verb
+3076	534	ram	noun, verb
+3077	534	bù	verb
+3078	534	bầu	adjective, noun, verb
+3079	534	liên xô	proper noun
+3080	534	bọ	noun
+3081	534	bồ	noun, prefix, pronoun, proper noun
+3082	534	nhung	adjective, noun, proper noun
+3083	534	ví	noun, verb
+3084	533	eu	proper noun
+3085	533	cốc	interjection, noun, verb
+3086	533	trọng tài	noun
+3087	533	nxb	noun
+3088	533	chức vụ	noun
+3089	532	mỳ	noun
+3090	532	chiến trường	noun
+3091	532	bạo lực	adjective, noun
+3092	532	vướng mắc	noun
+3093	532	ngoài trời	adjective
+3094	531	sen	noun, proper noun
+3095	531	bưởi	noun, proper noun
+3096	531	biểu	noun, verb
+3097	531	mệt	adjective
+3098	531	chịu đựng	adjective, verb
+3099	531	lướt	verb
+3100	531	cử nhân	noun
+3101	530	mật ong	noun
+3102	530	quảng trị	proper noun
+3103	530	đối phó	adverb, verb
+3104	529	ngày mai	adverb
+3105	529	nhầm	verb
+3106	529	hiệu suất	noun
+3107	528	huyết	noun
+3108	528	khoáng sản	noun
+3109	528	tôn vinh	verb
+3110	526	mía	noun
+3111	526	nhân loại	noun
+3112	526	phong độ	adjective, noun
+3113	526	dứt điểm	verb
+3114	524	xoa	noun, verb
+3115	524	thoa	noun
+3116	523	nám	adjective
+3117	523	tắc	noun, verb
+3118	523	cô đơn	adjective
+3119	523	liên hoan	noun
+3120	523	dân sự	adjective
+3121	523	ngắn hạn	adjective
+3122	523	phẩm chất	noun
+3123	523	trẻ con	adjective, noun
+3124	522	mc	noun
+3125	522	dọn	verb
+3126	521	ghét	noun, verb
+3127	521	hài hước	adjective
+3128	521	công nghệ cao	noun
+3129	520	bình tĩnh	adjective
+3130	520	cổ truyền	adjective
+3131	520	thương binh	noun
+3132	519	lỏng	adjective
+3133	518	phe	noun
+3134	518	dồn	verb
+3135	518	biến chứng	noun
+3136	517	toán học	noun
+3137	517	căn bản	adjective, adverb, noun
+3138	517	nhà cửa	noun
+3139	516	hội an	proper noun
+3140	516	coi trọng	verb
+3141	516	hết mình	adjective
+3142	515	xinh	adjective
+3143	515	cảnh quan	noun
+3144	515	đòn	noun
+3145	515	tài xế	noun
+3146	515	thực thi	verb
+3147	514	nghiệp	noun
+3148	514	đếm	verb
+3149	514	kiến	noun
+3150	514	phẩm	noun
+3151	514	lót	verb
+3152	514	khẩn cấp	adjective
+3153	514	con cháu	noun
+3154	514	lão hoá	verb
+3155	513	gỡ	verb
+3156	513	thọ	adverb, noun, proper noun, verb
+3157	513	ý chí	noun
+3158	513	khuyến cáo	noun, verb
+3159	513	cũng nên	adverb
+3160	512	hoạ	noun
+3161	512	khởi công	verb
+3162	511	cánh tay	noun
+3163	511	trang trại	noun
+3164	511	trầm	adjective, noun, proper noun, verb
+3165	511	ngưng	verb
+3166	511	thành quả	noun
+3167	510	vũ trang	adjective
+3168	510	nọ	determiner
+3169	509	lừa	noun, verb
+3170	509	xe buýt	noun
+3171	509	lộ trình	noun
+3172	509	bấy giờ	adverb
+3173	508	cương	adjective, noun
+3174	508	xám	adjective
+3175	508	mơ ước	noun, verb
+3176	507	huyền	adjective, proper noun
+3177	507	máy in	noun
+3178	507	lừa đảo	verb
+3179	507	phì	adjective, verb
+3180	506	tri	verb
+3181	506	cắn	verb
+3182	506	kim cương	noun
+3183	506	nghệ	adjective, noun
+3184	506	đông nam	adjective
+3185	506	chào đón	verb
+3186	505	cảm	noun, verb
+3187	505	nhắm	verb
+3188	505	phú yên	proper noun
+3189	505	xâm nhập	verb
+3190	504	lăn	verb
+3191	504	dây chuyền	noun
+3192	504	đều đặn	adverb
+3193	502	bùn	noun
+3194	502	buồn	adjective, verb
+3195	502	dễ chịu	adjective
+3196	501	mặt nạ	noun
+3197	501	vĩ đại	adjective
+3198	501	nhăn	adjective, verb
+3199	501	tâm huyết	adjective, noun
+3200	501	trợ cấp	noun, verb
+3201	500	ư	adverb, character, noun
+3202	500	giận	adjective, verb
+3203	500	lập trình	noun, verb
+3204	500	chăm lo	verb
+3205	500	tin đồn	noun
+3206	499	cạn	adjective, verb
+3207	499	ổn	adjective
+3208	499	khép	verb
+3209	499	kề	adjective
+3210	499	bổ ích	adjective
+3211	499	đặc tính	noun
+3212	498	nát	adjective
+3213	498	khẩn trương	adjective
+3214	498	mới lạ	adjective
+3215	497	gừng	noun
+3216	497	lậu	adjective, noun
+3217	497	xuất xứ	noun
+3218	496	huỷ	verb
+3219	496	chỉ thị	noun, verb
+3220	495	hái	verb
+3221	495	tỏi	adjective, noun
+3222	495	mạ	noun, verb
+3223	495	học hành	verb
+3224	494	luận	noun, proper noun, verb
+3225	494	viền	noun, verb
+3226	494	xe tải	noun
+3227	494	quy luật	noun
+3228	494	xào	verb
+3229	494	hành lang	noun
+3230	494	mật khẩu	noun
+3231	494	giếng	noun
+3232	493	sanh	noun, verb
+3233	493	giới tính	noun
+3234	493	kỹ năng	noun
+3235	493	chuyên viên	noun
+3236	493	chỉ trích	verb
+3237	493	mất tích	verb
+3238	493	mặt tiền	noun
+3239	493	địa	noun
+3240	492	lộc	noun, proper noun
+3241	492	trước tiên	adverb
+3242	492	thâm	adjective
+3243	492	lồng	noun, verb
+3244	492	khía cạnh	noun
+3245	492	kệ	interjection, noun, verb
+3246	491	đặc	adjective, adverb
+3247	490	quạt	noun, verb
+3248	490	ác	adjective, noun
+3249	490	thân hình	noun
+3250	490	rắc rối	adjective, noun
+3251	490	ám ảnh	verb
+3252	490	trung thu	proper noun
+3253	490	bản lĩnh	noun, verb
+3254	489	luộc	proper noun, verb
+3255	489	đạp	verb
+3256	489	thiền	noun
+3257	489	tủ lạnh	noun
+3258	489	cận	adjective
+3259	489	hồi phục	verb
+3260	488	son	adjective, noun
+3261	488	rung	verb
+3262	488	mau	adjective, adverb
+3263	488	gởi	verb
+3264	488	liên đoàn	noun
+3265	488	sức sống	noun
+3266	488	tên miền	noun
+3267	488	tham mưu	noun, verb
+3268	487	kép	adjective, adverb, noun, proper noun
+3269	487	thiệt mạng	verb
+3270	486	ngân	proper noun, verb
+3271	486	họng	noun
+3272	485	cay	adjective, noun
+3273	485	mãi mãi	adverb
+3274	485	tiền mặt	noun
+3275	485	thân thiết	adjective
+3276	485	thăm dò	verb
+3277	484	khai trương	verb
+3278	484	trí thức	noun
+3279	484	sơ sinh	adjective
+3280	483	nhân tạo	adjective
+3281	483	lào cai	proper noun
+3282	482	bách khoa	noun, proper noun
+3283	482	nghỉ dưỡng	verb
+3284	482	rạp	adverb, noun, verb
+3285	482	hiệp định	noun
+3286	482	giam	verb
+3287	481	len	noun, verb
+3288	481	rét	adjective, noun
+3289	481	cấu tạo	noun, verb
+3290	481	phủ nhận	verb
+3291	481	liêm	proper noun
+3292	481	ban đêm	noun
+3293	480	tham	noun, verb
+3294	480	đa khoa	adjective
+3295	480	đối đầu	verb
+3296	479	động đất	noun
+3297	479	trung hoa	adjective
+3298	479	tất	adverb, noun, proper noun
+3299	479	phân bón	noun
+3300	479	trọ	noun, verb
+3301	479	mở đầu	verb
+3302	479	thanh lịch	adjective
+3303	479	đầu ra	noun
+3304	478	phát sóng	verb
+3305	478	giản dị	adjective
+3306	478	xa lạ	adjective
+3307	478	góp mặt	verb
+3308	477	soi	noun, verb
+3309	477	út	adjective, pronoun
+3310	477	vận	noun, verb
+3311	477	dĩ nhiên	adverb
+3312	477	phấn khởi	adjective
+3313	477	hấp thụ	verb
+3314	476	sinh vật	noun
+3315	476	áo dài	noun
+3316	476	vuông	adjective
+3317	476	tùng	interjection, noun, proper noun
+3318	476	đơn thuần	adjective, adverb
+3319	476	cấp độ	noun
+3320	476	tiên phong	noun
+3321	475	ni	adverb, determiner
+3322	475	biên	noun, verb
+3323	475	gác	noun, verb
+3324	475	phượng	noun, proper noun
+3325	475	dặm	noun
+3326	475	đục	adjective, verb
+3327	474	cốt	noun
+3328	473	phục	proper noun, verb
+3329	473	mầm	noun
+3330	472	sương	noun
+3331	472	bao lâu	adverb
+3332	472	kiên trì	verb
+3333	472	công văn	noun
+3334	471	hành nghề	verb
+3335	471	tự nguyện	verb
+3336	471	vững mạnh	adjective
+3337	470	xơ	noun
+3338	470	sơ	adjective
+3339	469	công cuộc	noun
+3340	468	bận	noun, verb
+3341	468	thảm hoạ	noun
+3342	468	yêu mến	verb
+3343	468	tuyển chọn	adjective, verb
+3344	467	xung đột	verb
+3345	467	ghi nhớ	verb
+3346	467	nhiễm trùng	verb
+3347	467	trung thành	adjective
+3348	467	hội trường	noun
+3349	466	sa	noun, verb
+3350	466	tò mò	adjective
+3351	466	cuốn hút	verb
+3352	466	thật ra	adverb
+3353	465	buôn	noun, verb
+3354	465	phối	verb
+3355	465	vóc dáng	noun
+3356	465	rạng	adjective, verb
+3357	464	nông sản	noun
+3358	464	vị thế	noun
+3359	463	chủ quan	adjective, noun
+3360	463	đa phần	noun
+3361	463	ưu thế	noun
+3362	462	nhức	verb
+3363	462	hở	adjective, particle
+3364	462	bề	noun
+3365	462	đồ dùng	noun
+3366	462	triển vọng	noun
+3367	461	sỏi	noun
+3368	461	trang sức	noun
+3369	461	quầy	noun
+3370	461	tai nghe	noun
+3371	460	mu	noun
+3372	460	giặt	verb
+3373	460	nhẫn	noun
+3374	460	bản sắc	noun
+3375	460	kẻ thù	noun
+3376	460	cỗ	classifier, noun
+3377	460	yếu kém	adjective, noun
+3378	460	kháng sinh	noun
+3379	460	suy thoái	verb
+3380	459	văn chương	noun, proper noun
+3381	459	trọn vẹn	adjective
+3382	458	cà chua	noun
+3383	458	bắt mắt	verb
+3384	458	gian hàng	noun
+3385	458	phương hướng	noun
+3386	458	năm tháng	noun
+3387	458	cường độ	noun
+3388	458	kiểm định	verb
+3389	458	tốn kém	adjective
+3390	457	bún	noun
+3391	457	hữu cơ	adjective
+3392	457	xu thế	noun
+3393	457	đàm	noun, verb
+3394	456	lâm sàng	adjective
+3395	456	đứt	adjective, verb
+3396	456	kỳ lạ	adjective
+3397	456	trái phiếu	noun
+3398	456	thư mục	noun
+3399	455	rùa	noun
+3400	455	bưu điện	noun
+3401	455	sườn	noun
+3402	455	khả thi	adjective
+3403	455	thiên tai	noun
+3404	454	trong sáng	adjective
+3405	454	mạch máu	noun
+3406	454	địa hình	noun
+3407	454	hữu hiệu	adjective
+3408	454	giải đáp	verb
+3409	453	bán kết	noun
+3410	453	bôi	verb
+3411	453	nhất trí	verb
+3412	452	ưa thích	verb
+3413	452	chôn	verb
+3414	452	bắt gặp	verb
+3415	451	tưới	verb
+3416	451	dập	verb
+3417	451	đúc	verb
+3418	451	luật pháp	noun
+3419	450	ngẫu nhiên	adjective
+3420	450	tuổi thọ	noun
+3421	450	tỷ giá	noun
+3422	450	hình dáng	noun
+3423	449	trịnh	proper noun
+3424	449	bầu trời	noun
+3425	449	gắn kết	verb
+3426	449	chuyển hoá	verb
+3427	449	hoành tráng	adjective
+3428	449	mạc	proper noun
+3429	448	lọ	noun, verb
+3430	448	tín nhiệm	noun, verb
+3431	448	đường dây	noun
+3432	448	phần cứng	noun
+3433	448	thành đạt	verb
+3434	447	chiên	adjective, noun, verb
+3435	447	bảo hộ	verb
+3436	447	buông	verb
+3437	447	trấn	noun
+3438	446	đạm	noun
+3439	446	trưng	proper noun, verb
+3440	446	lùi	verb
+3441	446	bến tre	proper noun
+3442	446	thất nghiệp	adjective, noun, verb
+3443	445	ngoan	adjective
+3444	445	xông	noun, verb
+3445	445	mỉm	verb
+3446	445	cổ vũ	verb
+3447	445	va chạm	verb
+3448	444	đại dương	noun
+3449	444	khánh	noun, proper noun, verb
+3450	444	gia súc	noun
+3451	443	tụi	noun, particle
+3452	443	hứng thú	adjective, noun
+3453	442	em gái	noun
+3454	442	định nghĩa	noun, verb
+3455	442	dẫn dắt	verb
+3456	442	khống chế	verb
+3457	441	lặn	adjective, verb
+3458	441	vĩ mô	adjective
+3459	441	bất cập	adjective, noun
+3460	440	giáo	noun, suffix
+3461	439	thuỷ lợi	noun
+3462	439	bảo trì	verb
+3463	439	thí điểm	noun
+3464	438	mộc	adjective, noun
+3465	438	niệm	verb
+3466	437	thô	adjective
+3467	437	đường kính	noun
+3468	437	đầu mối	noun
+3469	436	sưng	adjective, verb
+3470	436	trở ngại	noun, verb
+3471	436	hoa quả	noun
+3472	435	mác	noun, proper noun
+3473	435	cồn	noun, verb
+3474	435	nước hoa	noun
+3475	435	thực dân	noun
+3476	434	quy tắc	noun
+3477	434	xác minh	noun, verb
+3478	434	ống kính	noun
+3479	434	chuyên mục	noun
+3480	434	chú rể	noun
+3481	434	quý giá	adjective
+3482	433	nước mắm	noun
+3483	433	kẹo	adjective, noun
+3484	433	thực đơn	noun
+3485	433	lạm dụng	verb
+3486	433	hiện đại hoá	noun, verb
+3487	433	cửu long	proper noun
+3488	432	ngoại tệ	noun
+3489	432	thầy thuốc	noun
+3490	432	tranh luận	verb
+3491	432	cơ khí	adjective, noun
+3492	431	đồng tình	verb
+3493	430	hoàng gia	noun
+3494	430	canxi	noun
+3495	430	phương châm	noun
+3496	430	tái tạo	verb
+3497	430	điện năng	noun
+3498	430	tâm linh	adjective, noun
+3499	429	ái	adjective, interjection, noun, verb
+3500	429	sĩ	adjective, noun, proper noun
+3501	428	râu	noun
+3502	428	tượng trưng	adjective, noun, verb
+3503	428	nhỏ bé	adjective
+3504	427	chê	verb
+3505	427	liên hiệp	verb
+3506	427	khoan	adverb, noun, verb
+3507	427	mồi	noun, verb
+3508	427	hôi	adjective, verb
+3509	427	biên tập	verb
+3510	427	dồi dào	adjective
+3511	427	hàng hải	adjective, noun
+3512	427	soạn thảo	verb
+3513	427	tiện dụng	adjective
+3514	427	phú quốc	proper noun
+3515	426	nốt	adverb, noun
+3516	426	long an	proper noun
+3517	426	giải toả	verb
+3518	425	ngưỡng	noun
+3519	425	khiêm tốn	adjective
+3520	425	hả	adjective, interjection, particle, verb
+3521	425	vỉa hè	noun
+3522	425	cống	noun, verb
+3523	425	đối lập	verb
+3524	425	lưu niệm	verb
+3525	425	sắc màu	noun
+3526	424	eo	interjection, noun
+3527	424	lệ	noun, proper noun, verb
+3528	424	nữ tính	adjective
+3529	424	nhường	verb
+3530	424	gọn gàng	adjective
+3531	424	lệ phí	noun
+3532	423	mạnh dạn	adjective
+3533	423	vạch	noun, verb
+3534	423	an giang	proper noun
+3535	423	người nhà	noun
+3536	423	hay là	conjunction
+3537	423	sơ mi	noun
+3538	422	na	noun, particle, proper noun, verb
+3539	422	vây	noun, verb
+3540	422	chớ	particle
+3541	421	dân tộc thiểu số	noun
+3542	421	bùng nổ	verb
+3543	421	mâm	noun
+3544	421	sai phạm	noun, verb
+3545	421	nhược điểm	noun
+3546	420	yên tĩnh	adjective
+3547	420	xí nghiệp	noun
+3548	420	ổ cứng	noun
+3549	420	lâu đời	adjective
+3550	419	phanh	noun, verb
+3551	419	chăm chỉ	adjective
+3552	419	phòng khám	noun
+3553	419	kiềm chế	verb
+3554	419	động thái	noun
+3555	419	tất yếu	adjective
+3556	419	bao bì	noun
+3557	418	tràn ngập	verb
+3558	417	âm đạo	noun
+3559	417	áo khoác	noun
+3560	417	họp báo	noun
+3561	417	chỉ dẫn	noun, verb
+3562	417	chắc hẳn	adverb
+3563	416	keo	adjective, noun
+3564	416	đối	verb
+3565	416	mùng	noun, prefix
+3566	416	lặng lẽ	adjective
+3567	416	khoang	noun
+3568	416	đối ngoại	verb
+3569	416	hoàng sa	proper noun
+3570	415	hít	verb
+3571	415	duyên dáng	adjective
+3572	415	ướp	verb
+3573	415	đùa	verb
+3574	415	dịu	adjective, verb
+3575	414	tái	adjective, prefix
+3576	414	kỹ lưỡng	adjective
+3577	414	ăn mặc	verb
+3578	414	trung thực	adjective
+3579	414	ứng	verb
+3580	413	thiên hạ	noun
+3581	413	hố	adjective, noun
+3582	413	lật	verb
+3583	413	thầm	adverb
+3584	413	sức ép	noun
+3585	413	tháo gỡ	verb
+3586	412	san	proper noun, verb
+3587	412	ong	noun
+3588	412	bình thuận	proper noun
+3589	411	thuỷ tinh	noun, proper noun
+3590	411	ninh bình	proper noun
+3591	411	thẳng thắn	adjective
+3592	411	kiên quyết	adjective
+3593	410	không quân	noun
+3594	410	hẻm	adjective, noun
+3595	410	nghệ nhân	noun
+3596	410	riêng tư	adjective
+3597	410	thư giãn	verb
+3598	410	dữ dội	adjective
+3599	410	rước	verb
+3600	409	vĩnh viễn	adjective
+3601	409	thành uỷ	noun
+3602	409	tình cờ	adjective
+3603	409	trầm trọng	adjective
+3604	409	phong thuỷ	noun
+3605	408	chùm	noun
+3606	408	tham vọng	noun
+3607	408	cá tra	noun
+3608	408	giúp việc	noun, verb
+3609	407	kiếp	noun
+3610	407	ốm	adjective
+3611	407	giật mình	verb
+3612	407	chuyên khoa	noun
+3613	407	phá sản	verb
+3614	407	biên phòng	noun
+3615	407	nam bộ	proper noun
+3616	406	ván	noun
+3617	406	lân cận	adjective, noun
+3618	406	khởi	verb
+3619	405	tiếng nói	noun
+3620	405	dinh	noun
+3621	405	nảy sinh	verb
+3622	405	làm giàu	verb
+3623	404	code	noun, verb
+3624	404	nhặt	verb
+3625	404	vô số	adjective
+3626	403	hoàng tử	noun
+3627	403	cầu thang	noun
+3628	402	tế	verb
+3629	402	sập	noun, verb
+3630	402	nhà đất	noun
+3631	402	phạm tội	adjective, verb
+3632	402	hào hứng	adjective
+3633	401	r	character
+3634	401	ướt	adjective
+3635	401	triết học	noun
+3636	401	tiền giang	proper noun
+3637	401	chủ đạo	adjective
+3638	401	mịn màng	adjective
+3639	401	tây bắc	adjective
+3640	401	học kỳ	noun
+3641	401	thực khách	noun
+3642	399	xu	noun
+3643	399	cải	noun
+3644	399	gấu	adjective, noun
+3645	399	phân bố	verb
+3646	399	nhậu	verb
+3647	399	tóm tắt	verb
+3648	399	gợi	verb
+3649	399	thiêng liêng	adjective
+3650	399	nữ sinh	noun
+3651	399	tiền lương	noun
+3652	399	ức chế	verb
+3653	399	liên doanh	noun
+3654	398	xăm	noun, verb
+3655	398	cúi	noun, verb
+3656	398	chấp thuận	verb
+3657	398	đánh bắt	verb
+3658	398	biên soạn	verb
+3659	397	đê	noun
+3660	397	gia lai	proper noun
+3661	397	bỏ phiếu	verb
+3662	397	dòng họ	noun
+3663	397	cố tình	verb
+3664	397	thiết yếu	adjective
+3665	396	mạn	noun
+3666	396	chuẩn mực	adjective
+3667	396	chiêm ngưỡng	verb
+3668	396	dưỡng chất	noun
+3669	395	ham	adjective
+3670	395	giang	noun, proper noun
+3671	395	công phu	adjective, adverb
+3672	395	hồi giáo	noun
+3673	395	lẻ	adjective, adverb
+3674	395	độc hại	adjective
+3675	395	nhất thiết	adjective, adverb
+3676	395	môi giới	noun, verb
+3677	395	linh kiện	noun
+3678	394	tơ	adjective, noun
+3679	394	kích	noun, verb
+3680	394	đột biến	noun, verb
+3681	394	tệ	adjective, noun
+3682	394	thai nhi	noun
+3683	393	nón	noun
+3684	393	khuya	adjective, adverb, noun
+3685	393	bản sao	noun
+3686	392	đăng ký	verb
+3687	392	sống động	adjective
+3688	392	có ích	adjective
+3689	392	toàn thân	noun
+3690	392	thường niên	adjective
+3691	392	huy	proper noun
+3692	392	đa năng	adjective
+3693	392	phá huỷ	verb
+3694	391	phở	noun
+3695	391	bẫy	noun, verb
+3696	391	trực	verb
+3697	390	chui	adjective, verb
+3698	390	khuyết điểm	noun
+3699	389	xay	verb
+3700	389	thuật ngữ	noun
+3701	389	hoạ sĩ	noun
+3702	389	phòng thủ	verb
+3703	389	tiêu đề	noun
+3704	389	quá tải	adjective
+3705	388	mù	adjective
+3706	388	hợp chất	noun
+3707	388	tinh dầu	noun
+3708	388	chân dung	noun
+3709	387	hào	noun, proper noun
+3710	387	bắc giang	proper noun
+3711	387	qua lại	adjective, verb
+3712	386	gai	noun
+3713	386	quần thể	noun
+3714	386	hoài	adverb, proper noun, verb
+3715	386	đùi	noun
+3716	386	say mê	verb
+3717	385	bèn	adverb
+3718	385	thạch	noun, proper noun
+3719	385	bình dân	adjective, noun
+3720	385	tiềm ẩn	adjective
+3721	384	bá	verb
+3722	384	điên	adjective, adverb
+3723	384	thuý	proper noun
+3724	384	lệch	adjective, noun
+3725	384	bộc lộ	verb
+3726	384	sáng chế	verb
+3727	383	muỗi	noun
+3728	383	tâm thần	noun
+3729	383	tuổi thơ	noun
+3730	383	thủ môn	noun
+3731	382	đất liền	noun
+3732	382	sáp nhập	verb
+3733	382	cư trú	verb
+3734	382	nhận diện	verb
+3735	381	giòn	adjective
+3736	381	báo động	noun, verb
+3737	381	kiên giang	proper noun
+3738	381	cứu hộ	verb
+3739	381	khung cảnh	noun
+3740	381	giáo trình	noun
+3741	380	golf	noun
+3742	380	mệnh	noun
+3743	380	nấu ăn	verb
+3744	380	có thai	adjective
+3745	380	khai giảng	verb
+3746	379	lăng	noun
+3747	379	tín ngưỡng	noun
+3748	379	truy	verb
+3749	379	quanh năm	adverb
+3750	379	cõi	noun
+3751	379	tín đồ	noun
+3752	378	nguyên tử	noun
+3753	378	vứt	verb
+3754	378	gót	noun
+3755	378	lầm	adverb, verb
+3756	378	bạch	proper noun
+3757	378	di truyền	adjective
+3758	378	đề cử	verb
+3759	377	thánh	adjective, noun
+3760	377	tem	noun
+3761	377	tuân	verb
+3762	377	gay gắt	adjective
+3763	376	côn trùng	noun
+3764	376	dũng cảm	adjective
+3765	376	vực	noun, verb
+3766	376	hội chứng	noun
+3767	376	hình dạng	noun
+3768	376	thủng	adjective
+3769	376	khả quan	adjective
+3770	376	đối xử	verb
+3771	376	lo sợ	verb
+3772	376	tần	proper noun
+3773	375	huệ	noun, proper noun
+3774	375	giỏ	noun, verb
+3775	374	phong tục	noun
+3776	374	sấy	verb
+3777	374	hội tụ	adjective, verb
+3778	374	vật tư	noun
+3779	373	robot	noun
+3780	373	cu	interjection, noun
+3781	373	móc	noun, verb
+3782	373	động mạch	noun
+3783	373	hẹn hò	verb
+3784	372	kỷ niệm	noun, verb
+3785	372	lung linh	adjective
+3786	372	thần tượng	noun
+3787	372	nóng bỏng	adjective
+3788	371	se	verb
+3789	371	thứ tư	adjective, noun
+3790	371	rẽ	adverb, verb
+3791	371	thìa	noun
+3792	371	đắng	adjective
+3793	371	trùm	noun, verb
+3794	371	hấp thu	verb
+3795	371	chép	noun, verb
+3796	371	chính quy	adjective
+3797	371	chiết xuất	verb
+3798	370	noi	verb
+3799	370	bơ	noun, verb
+3800	370	nữ hoàng	noun
+3801	370	chắn	noun, verb
+3802	370	tâm trí	noun
+3803	370	điều khoản	noun
+3804	370	đền bù	verb
+3805	369	nghĩa trang	noun
+3806	369	liệt	adjective, verb
+3807	369	hông	adverb, noun, verb
+3808	369	bìa	classifier, noun
+3809	369	bắt nguồn	verb
+3810	369	sơ đồ	noun
+3811	369	đường lối	noun
+3812	369	chuyền	verb
+3813	369	thể chất	noun
+3814	369	khích lệ	verb
+3815	369	hoá đơn	noun
+3816	369	hậu vệ	noun
+3817	368	duy	adverb, proper noun
+3818	368	phú thọ	proper noun
+3819	368	trách	noun, verb
+3820	368	ngoại hình	noun
+3821	368	chi đoàn	noun
+3822	368	đặt chân	verb
+3823	367	cửa khẩu	noun
+3824	367	năng khiếu	noun
+3825	367	nội vụ	noun
+3826	366	nguội	adjective
+3827	366	gạt	noun, verb
+3828	366	sành điệu	adjective
+3829	365	lắp ráp	verb
+3830	365	giám định	verb
+3831	365	khát vọng	noun
+3832	365	liệt kê	verb
+3833	365	mặt nước	noun
+3834	365	gia công	verb
+3835	364	tổ tiên	noun
+3836	364	lặng	adjective
+3837	364	hình dung	verb
+3838	364	dẫu	conjunction
+3839	364	độ ẩm	noun
+3840	363	youtube	proper noun
+3841	363	dở	adjective, adverb
+3842	363	sản	verb
+3843	363	phân chia	verb
+3844	363	cấy	adjective, noun, verb
+3845	363	ngứa	verb
+3846	363	nước ngọt	noun
+3847	363	thất	noun
+3848	363	đại chúng	adjective
+3849	363	đảm nhận	verb
+3850	363	ly hôn	verb
+3851	362	phan	proper noun
+3852	362	binh	noun
+3853	362	địa danh	noun
+3854	362	hô	adjective, noun
+3855	362	tổ hợp	noun
+3856	362	bạc liêu	proper noun
+3857	362	tối cao	adjective
+3858	362	bất lợi	adjective
+3859	362	dự bị	adjective
+3860	362	góc độ	noun
+3861	362	bình ổn	verb
+3862	361	đèo	noun, verb
+3863	361	cao điểm	noun
+3864	361	vừa mới	adverb
+3865	361	cảm động	adjective
+3866	361	hình tượng	noun
+3867	360	gậy	noun
+3868	360	phân tử	noun
+3869	360	tý	proper noun
+3870	360	giai cấp	noun
+3871	360	phát minh	noun, verb
+3872	360	ngăn cản	verb
+3873	360	hướng dẫn viên	noun
+3874	360	thuyết trình	noun, verb
+3875	360	tươi sáng	adjective
+3876	359	ồn ào	adjective
+3877	359	hoa văn	noun
+3878	359	khắc nghiệt	adjective
+3879	359	thế thì	adverb
+3880	358	bí	noun, verb
+3881	358	nhấp	verb
+3882	358	đo lường	noun
+3883	358	vội vàng	adjective, adverb
+3884	357	nến	noun
+3885	357	thuyết	noun, verb
+3886	357	tỉnh thành	adjective, noun
+3887	356	truyền thuyết	noun
+3888	356	thiệt	adjective, verb
+3889	355	bàn chân	noun
+3890	355	tần số	noun
+3891	355	chủ chốt	adjective
+3892	355	thượng	adjective, verb
+3893	354	nang	noun
+3894	354	vâng	interjection, verb
+3895	354	nhuộm	verb
+3896	354	lang thang	verb
+3897	354	bảo dưỡng	verb
+3898	353	lụa	adjective, noun
+3899	353	bình minh	noun
+3900	353	lên ngôi	verb
+3901	353	kiến trúc sư	noun
+3902	353	bồn	noun
+3903	353	thuần	adjective
+3904	353	nghi lễ	noun
+3905	353	tuần hoàn	adjective
+3906	353	sinh dục	adjective
+3907	353	túi xách	noun
+3908	352	ren	noun, verb
+3909	352	ơn	noun
+3910	352	thung lũng	noun
+3911	352	trơn	adjective, adverb
+3912	352	dại	adjective, adverb, noun
+3913	352	siêu âm	adjective, noun, verb
+3914	352	loài người	noun
+3915	352	ấm cúng	adjective
+3916	352	nhân cách	noun
+3917	352	phân bổ	verb
+3918	351	chất độc	noun
+3919	351	âm lịch	noun
+3920	351	lường	verb
+3921	351	định cư	verb
+3922	351	nhiệt huyết	noun
+3923	351	hợp nhất	verb
+3924	350	mẹo	noun, proper noun
+3925	350	rách	adjective
+3926	350	khen ngợi	verb
+3927	350	tạo hình	verb
+3928	350	tương thích	adjective
+3929	349	hầu	adverb, noun, verb
+3930	349	nghệ sĩ	noun
+3931	349	tam giác	noun
+3932	349	sưu tầm	verb
+3933	349	nước nhà	noun
+3934	349	đột nhiên	adverb
+3935	349	công đoạn	noun
+3936	349	phát điện	verb
+3937	349	hiện vật	noun
+3938	348	ba lan	proper noun
+3939	348	câu lạc bộ	noun
+3940	348	dê	adjective, noun
+3941	348	linh hồn	noun
+3942	348	nhị	noun
+3943	348	mạo hiểm	adjective, verb
+3944	348	trễ	adjective
+3945	348	tồi tệ	adjective
+3946	348	cản	noun, verb
+3947	348	thanh bình	adjective
+3948	348	mẫu mã	noun
+3949	347	test	noun, verb
+3950	347	ngưỡng mộ	verb
+3951	347	cởi mở	adjective, verb
+3952	347	thanh xuân	noun
+3953	347	diễn xuất	verb
+3954	347	mã số	noun
+3955	346	trào	noun, verb
+3956	346	sót	adjective, verb
+3957	346	tức giận	verb
+3958	346	chèo	noun, verb
+3959	345	thon	adjective
+3960	345	năng	adverb, noun
+3961	345	lan toả	verb
+3962	345	chịu khó	adjective, verb
+3963	344	giai điệu	noun
+3964	344	tước	noun, verb
+3965	344	quảng trường	noun
+3966	344	lốp	adjective, noun
+3967	344	thuỵ sĩ	adjective, proper noun
+3968	344	vĩnh phúc	proper noun
+3969	344	tiểu bang	noun
+3970	344	tình thương	noun
+3971	344	lôi cuốn	verb
+3972	343	xâm lược	noun, verb
+3973	343	nhọn	adjective
+3974	343	sinh lý	adjective, noun
+3975	343	phu	noun
+3976	343	tràn đầy	adjective, verb
+3977	342	cọ	noun, verb
+3978	342	giàn	noun
+3979	342	ngày tháng	noun
+3980	342	tạo dựng	verb
+3981	341	thuật	noun
+3982	341	mép	noun
+3983	341	biệt	adjective, verb
+3984	341	gieo	verb
+3985	341	khẽ	adjective, adverb
+3986	341	vắt	classifier, interjection, noun, verb
+3987	341	ngộ độc	adjective
+3988	341	tiến triển	noun, verb
+3989	340	loạn	adjective, noun
+3990	340	hợp tác xã	noun
+3991	340	ưu tú	adjective
+3992	340	đâu đó	adverb
+3993	340	cốt lõi	noun
+3994	340	phước	noun, proper noun
+3995	340	lớn tuổi	adjective
+3996	339	hấp	verb
+3997	339	mốt	adverb, noun, numeral
+3998	338	chảo	noun
+3999	338	lý do	noun
+4000	338	huân chương	noun
+4001	338	vòng tay	noun, verb
+4002	338	hà giang	proper noun
+4003	338	kẹp	noun, verb
+4004	338	chuồng	noun
+4005	338	công chứng	adjective, verb
+4006	338	chức danh	noun
+4007	337	ban ngày	noun
+4008	337	tuần tra	verb
+4009	337	ồn	adjective
+4010	337	đồng phục	noun
+4011	337	sai sót	noun
+4012	337	phi công	noun
+4013	337	mệnh danh	verb
+4014	336	ưa	verb
+4015	336	kế tiếp	verb
+4016	336	bất ổn	adjective, noun
+4017	335	chọn lọc	verb
+4018	335	ý muốn	noun
+4019	335	khử	noun
+4020	335	đấu thầu	verb
+4021	335	vành đai	noun
+4022	335	dân trí	noun
+4023	335	dân chúng	noun
+4024	334	đội trưởng	noun
+4025	334	chất vấn	verb
+4026	334	tự chủ	adjective, verb
+4027	334	biên chế	noun
+4028	334	canh tác	verb
+4029	334	có điều	adverb
+4030	334	hiện hữu	adjective
+4031	334	mô phỏng	noun, verb
+4032	334	tưởng niệm	verb
+4033	333	giáo khoa	noun
+4034	333	đồng loạt	adjective, adverb
+4035	333	dòng chảy	noun
+4036	333	dược phẩm	noun
+4037	333	trong suốt	adjective
+4038	333	gia sư	noun
+4039	333	giải ngân	verb
+4040	332	đế quốc	noun
+4041	332	buồng	noun
+4042	332	quy nhơn	proper noun
+4043	332	chính đáng	adjective
+4044	332	định vị	verb
+4045	331	chu	proper noun, verb
+4046	331	khởi nghĩa	noun
+4047	331	dải	noun
+4048	331	huấn luyện viên	noun
+4049	331	nhập viện	verb
+4050	331	trăn trở	verb
+4051	331	ứng phó	verb
+4052	331	chi hội	noun
+4053	330	tha	verb
+4054	330	tinh trùng	noun
+4055	330	du học sinh	noun
+4056	330	chi phối	verb
+4057	330	biểu dương	verb
+4058	330	bài bản	noun
+4059	330	ra lệnh	verb
+4060	329	kiên nhẫn	adjective
+4061	329	kê khai	verb
+4062	329	ghi chép	verb
+4063	328	loan	noun, proper noun, verb
+4064	328	tạng	adjective, noun, proper noun
+4065	328	nuốt	noun, verb
+4066	328	tận tình	adjective
+4067	328	háo hức	adjective
+4068	327	đón tiếp	verb
+4069	327	tổn thất	noun
+4070	327	trào lưu	noun
+4071	327	hoà nhập	verb
+4072	326	rải rác	adjective
+4073	326	lạnh lùng	adjective
+4074	326	mặc định	verb
+4075	326	thông cảm	verb
+4076	326	truyền tải	verb
+4077	326	đài truyền hình	noun
+4078	325	từ điển	noun
+4079	325	nêm	noun, verb
+4080	325	miếu	noun
+4081	325	cúc	noun, proper noun
+4082	325	chúng mình	pronoun
+4083	325	muỗng	noun
+4084	325	xứ sở	noun
+4085	325	tư lệnh	noun
+4086	325	tú	proper noun
+4087	325	xoắn	adjective
+4088	325	sưởi	verb
+4089	325	hợp lệ	adjective
+4090	325	gìn giữ	verb
+4091	325	chủ thể	noun
+4092	325	ca hát	noun
+4093	324	rong	adjective, noun, verb
+4094	324	kẽm	noun
+4095	324	muôn	determiner
+4096	324	xe tăng	noun
+4097	324	bằng cấp	noun
+4098	324	trán	noun
+4099	324	ý nghĩ	noun
+4100	324	dứt	verb
+4101	324	nứt	adjective, verb
+4102	324	tổng bí thư	noun
+4103	324	trong lành	adjective
+4104	324	nhầm lẫn	verb
+4105	324	thú y	noun
+4106	324	tác hại	noun, verb
+4107	323	cò	noun
+4108	323	bắp	noun
+4109	323	ếch	noun
+4110	323	chìa khoá	noun
+4111	323	mồ côi	adjective
+4112	323	thích nghi	verb
+4113	322	siêu mẫu	noun
+4114	322	tiêu chảy	verb
+4115	322	thân mật	adjective
+4116	322	ngoại trừ	verb
+4117	322	trắc nghiệm	noun
+4118	321	cừu	noun
+4119	321	kỳ diệu	adjective
+4120	321	còi	adjective, noun
+4121	321	mất mát	noun, verb
+4122	321	lịch sự	adjective, adverb
+4123	321	sở dĩ	conjunction
+4124	321	đảm nhiệm	verb
+4125	321	thông thoáng	adjective
+4126	320	tố	noun, verb
+4127	320	ham muốn	noun, verb
+4128	320	trúc	noun
+4129	320	uốn	verb
+4130	320	sắc đẹp	noun
+4131	320	đồng minh	noun
+4132	320	đậm đà	adjective
+4133	320	hệ số	noun
+4134	320	bất kể	adverb
+4135	319	đực	adjective
+4136	319	tục	adjective, noun
+4137	319	thêu	noun, verb
+4138	319	thiếu nữ	noun
+4139	319	nhan sắc	noun
+4140	319	thiếu hụt	adjective
+4141	319	thương vụ	noun
+4142	318	chứa đựng	verb
+4143	318	thủ thuật	noun
+4144	318	hàng rào	noun
+4145	318	chóng mặt	verb
+4146	318	hoang mang	adjective
+4147	317	lân	noun, proper noun, verb
+4148	317	phá hoại	verb
+4149	317	sữa chua	noun
+4150	317	mòn	verb
+4151	317	tàu ngầm	noun
+4152	317	khang	proper noun
+4153	317	giang hồ	adjective, noun
+4154	317	cố vấn	noun, verb
+4155	317	nổi dậy	verb
+4156	317	quý hiếm	adjective
+4157	317	sâu rộng	adjective
+4158	317	đình chỉ	verb
+4159	317	thiệp	noun
+4160	316	me	noun
+4161	316	sét	noun, verb
+4162	316	sung sướng	adjective
+4163	316	mầu	adjective, noun
+4164	316	ứng cử viên	noun
+4165	316	chiến binh	noun
+4166	316	yên tâm	verb
+4167	315	dưa	noun
+4168	315	phong cảnh	noun
+4169	315	nhồi	verb
+4170	315	nhuyễn	adjective
+4171	315	cọc	noun
+4172	315	đề cao	verb
+4173	315	khoáng chất	noun
+4174	315	thích ứng	verb
+4175	315	nhân tài	noun
+4176	314	mí	noun
+4177	314	dì	noun
+4178	314	thứ ba	adjective, noun
+4179	314	toả	verb
+4180	314	điêu khắc	noun, verb
+4181	314	đại sứ quán	noun
+4182	314	gục	verb
+4183	314	hồi hộp	adjective
+4184	314	lấp lánh	verb
+4185	314	khủng khiếp	verb
+4186	314	đường cong	noun
+4187	314	đáp án	noun
+4188	314	bến xe	noun
+4189	313	sướng	adjective, noun
+4190	313	bẩm sinh	adjective
+4191	313	cao học	noun
+4192	313	bỏng	adjective, noun
+4193	313	thang máy	noun
+4194	313	đụng	verb
+4195	313	khởi tố	verb
+4196	313	đồ đạc	noun
+4197	313	đũng	noun
+4198	313	gia hạn	verb
+4199	313	lộng lẫy	adjective
+4200	313	trinh sát	verb
+4201	312	rang	verb
+4202	312	bón	adjective, verb
+4203	312	thân thể	noun
+4204	312	vững vàng	adjective
+4205	312	hồn nhiên	adjective
+4206	312	trị liệu	noun
+4207	312	nhân đạo	adjective, noun
+4208	312	cảnh giác	verb
+4209	311	tây ninh	proper noun
+4210	311	khuyến học	verb
+4211	311	rò rỉ	verb
+4212	310	sơn la	proper noun
+4213	310	yên bái	proper noun
+4214	310	chiếm đoạt	verb
+4215	310	ranh giới	noun
+4216	310	vui nhộn	adjective
+4217	310	thương lượng	verb
+4218	310	ngỡ ngàng	adjective
+4219	310	tây sơn	proper noun
+4220	310	kết nạp	verb
+4221	310	biên hoà	proper noun
+4222	309	day	verb
+4223	309	lẩu	noun
+4224	309	khoai tây	noun
+4225	309	khuôn	noun
+4226	309	dữ	adjective, adverb
+4227	309	thế lực	noun
+4228	309	thủ trưởng	noun
+4229	309	trung đoàn	noun
+4230	309	sống sót	verb
+4231	309	lưu lượng	noun
+4232	308	cán	noun, verb
+4233	308	ít nhiều	adverb
+4234	308	ốp	verb
+4235	308	nhộn nhịp	adjective
+4236	308	khẩu hiệu	noun
+4237	308	phái đẹp	noun
+4238	308	vừa phải	adjective
+4239	308	chảy máu	verb
+4240	307	nhai	verb
+4241	307	ca ngợi	verb
+4242	307	nhu	adjective
+4243	307	vĩnh long	proper noun
+4244	307	làn sóng	noun
+4245	307	khuất	proper noun, verb
+4246	307	chuyên sâu	adjective
+4247	307	thiết	verb
+4248	307	thống trị	verb
+4249	307	chủ lực	noun
+4250	306	chì	noun
+4251	306	măng	adjective, noun
+4252	306	phiêu lưu	adjective, noun
+4253	306	vô tư	adjective
+4254	306	kiên	proper noun
+4255	306	dọn dẹp	verb
+4256	306	cản trở	verb
+4257	306	thềm	noun
+4258	306	đích thực	adjective
+4259	306	sản sinh	verb
+4260	306	nguyện	proper noun, verb
+4261	305	dai	adjective, adverb
+4262	305	bánh mì	noun
+4263	305	bướm	noun
+4264	305	cựu chiến binh	noun
+4265	305	mát mẻ	adjective
+4266	305	lây lan	verb
+4267	305	anh chị em	noun
+4268	305	xôn xao	verb
+4269	305	mộng	noun
+4270	305	phương diện	noun
+4271	304	thi thể	noun
+4272	304	dắt	verb
+4273	304	nới	verb
+4274	304	khuẩn	noun
+4275	303	thỏ	noun, proper noun
+4276	303	vòi	noun, verb
+4277	303	cởi	verb
+4278	303	xa xôi	adjective
+4279	303	bóc	verb
+4280	303	hoang dã	adjective
+4281	303	kinh điển	adjective
+4282	303	tác nhân	noun
+4283	303	đồ vật	noun
+4284	303	thể lực	noun
+4285	303	điều tiết	verb
+4286	303	xã hội hoá	noun
+4287	302	nick	noun
+4288	302	lôi	verb
+4289	302	lớn lao	adjective
+4290	302	thông dụng	adjective
+4291	301	diều	noun
+4292	301	rớt	verb
+4293	301	xấu hổ	noun, verb
+4294	301	táo bạo	adjective
+4295	301	xuống cấp	verb
+4296	300	vọng	verb
+4297	300	tuần lễ	noun
+4298	300	quấn	verb
+4299	300	việt kiều	proper noun
+4300	300	đề phòng	verb
+4301	300	sư đoàn	noun
+4302	300	bưu chính	noun
+4303	300	mặt đường	noun
+4304	300	thời lượng	noun
+4305	299	net	noun
+4306	299	cây số	noun
+4307	299	bán đảo	noun
+4308	299	bản địa	adjective
+4309	299	ngói	noun
+4310	299	đình đám	adjective, noun
+4311	299	ngoại trưởng	noun
+4312	298	truyện tranh	noun
+4313	298	kon tum	proper noun
+4314	298	thu gom	verb
+4315	298	trung gian	adjective, noun
+4316	298	cáo buộc	verb
+4317	298	chuyên dụng	adjective
+4318	297	nè	interjection, particle
+4319	297	đại tá	noun
+4320	297	cổ đại	adjective
+4321	297	máy lạnh	noun
+4322	297	phần trăm	noun
+4323	297	xoáy	noun, verb
+4324	297	nghị lực	noun
+4325	297	bộ luật	noun
+4326	296	tàn	noun, verb
+4327	296	ngả	adverb, noun, verb
+4328	296	lúng túng	adjective
+4329	296	cãi	verb
+4330	296	tàn phá	verb
+4331	296	cơ bắp	noun
+4332	296	an sinh	noun
+4333	296	sĩ quan	noun
+4334	296	kinh hoàng	verb
+4335	295	ròng	adjective
+4336	295	sẻ	noun, verb
+4337	295	xôi	noun, verb
+4338	295	vấn	verb
+4339	295	thiên thần	noun
+4340	295	ngon miệng	adjective
+4341	295	có khi	adverb
+4342	295	gầy	adjective
+4343	295	trình tự	noun
+4344	295	biết ơn	verb
+4345	295	đường nét	noun
+4346	294	cao nguyên	noun
+4347	294	tỵ	proper noun
+4348	294	mất ngủ	verb
+4349	294	ngắn gọn	adjective
+4350	294	thửa	classifier, verb
+4351	294	xem ra	adverb
+4352	293	đè	verb
+4353	293	tĩnh mạch	noun
+4354	293	xài	verb
+4355	293	bảo trợ	verb
+4356	293	bề ngoài	noun
+4357	293	truyện ngắn	noun
+4358	292	hoang	adjective
+4359	292	hoá học	noun
+4360	292	thắt lưng	noun, verb
+4361	292	mãnh liệt	adjective
+4362	291	khéo	adjective, adverb
+4363	291	chăng	adverb
+4364	291	thiệt thòi	adjective, noun
+4365	291	công nghiệp hoá	noun, verb
+4366	291	khánh thành	verb
+4367	291	ghi chú	noun, verb
+4368	291	như thể	conjunction
+4369	290	bánh xe	noun
+4370	290	sâm	noun, proper noun
+4371	290	nhà bếp	noun
+4372	290	mặt trăng	proper noun
+4373	290	thừa thiên huế	proper noun
+4374	290	nhà nghỉ	noun
+4375	290	nôn	adjective, verb
+4376	290	khai báo	verb
+4377	290	thịnh vượng	adjective
+4378	290	quyên góp	verb
+4379	290	khát khao	verb
+4380	290	nghiệm thu	verb
+4381	290	phòng bệnh	adjective
+4382	290	để dành	verb
+4383	289	tang	noun
+4384	289	ruồi	noun
+4385	289	giơ	verb
+4386	289	kiểm điểm	verb
+4387	289	âm thầm	adjective, adverb
+4388	289	tăng tốc	verb
+4389	289	chủng loại	noun
+4390	289	thế chấp	verb
+4391	288	danh dự	noun
+4392	288	áp suất	noun
+4393	288	in ấn	noun
+4394	288	mủ	noun
+4395	288	ví dụ	conjunction, noun, verb
+4396	288	viếng	verb
+4397	288	nương	noun, verb
+4398	288	dương xỉ	noun
+4399	288	cây cảnh	noun
+4400	287	lắc	noun, verb
+4401	287	mã hoá	verb
+4402	287	xoá bỏ	verb
+4403	287	hưng yên	proper noun
+4404	287	phong kiến	adjective
+4405	286	lụt	adjective, noun
+4406	286	tổng đài	noun
+4407	286	bất hạnh	adjective
+4408	286	khốc liệt	adjective
+4409	286	vinh danh	verb
+4410	286	bắc bộ	proper noun
+4411	286	nhiễm khuẩn	verb
+4412	286	ca nhạc	noun
+4413	286	cao quý	adjective
+4414	285	họ hàng	noun
+4415	285	sóc trăng	proper noun
+4416	285	nữ giới	noun
+4417	285	xoang	noun
+4418	285	ngừa	verb
+4419	285	khoác	verb
+4420	285	thiếu thốn	verb
+4421	285	tật	noun
+4422	285	cá thể	noun
+4423	285	nhà trọ	noun
+4424	284	neo	adjective, noun, verb
+4425	284	tỉa	verb
+4426	284	vớt	verb
+4427	284	trừng phạt	verb
+4428	284	người tình	noun
+4429	283	xô	noun, verb
+4430	283	đồ án	noun
+4431	283	tình nhân	noun
+4432	283	quốc tịch	noun
+4433	283	sách vở	adjective, noun
+4434	283	sụp đổ	verb
+4435	283	sánh	adjective, verb
+4436	283	ràng buộc	noun, verb
+4437	283	chiều hướng	noun
+4438	282	thượng hải	adjective, proper noun
+4439	282	anh trai	interjection, noun, pronoun
+4440	282	phát âm	verb
+4441	282	lâm nghiệp	noun
+4442	282	ông già	noun
+4443	282	dặn	verb
+4444	282	trong sạch	adjective
+4445	281	ri	adjective, adverb
+4446	281	óc	noun
+4447	281	đồng tính	adjective
+4448	281	sắm	verb
+4449	281	trĩ	noun
+4450	281	an ủi	verb
+4451	281	nhờn	adjective, verb
+4452	281	tỉ mỉ	adjective
+4453	281	ưu	adjective
+4454	280	tập quán	noun
+4455	280	em trai	noun
+4456	280	ninh thuận	proper noun
+4457	280	đầu bếp	noun
+4458	280	dẻo	adjective
+4459	280	tương đồng	adjective
+4460	280	tình thế	noun
+4461	280	tĩnh	proper noun
+4462	279	bỉ	proper noun, verb
+4463	279	phù	interjection, verb
+4464	279	lược	noun, verb
+4465	279	cưng	adjective, pronoun, verb
+4466	279	khởi nghiệp	noun, verb
+4467	279	hà nam	proper noun
+4468	279	ăn ở	verb
+4469	278	san hô	noun
+4470	278	sư tử	noun, proper noun
+4471	278	nhàm chán	adjective
+4472	278	ban công	noun
+4473	278	cày	noun, verb
+4474	278	loét	noun, verb
+4475	278	thiếu sót	noun
+4476	278	thủ đoạn	noun
+4477	277	copy	verb
+4478	277	đậu nành	noun
+4479	277	phai	verb
+4480	277	bảo lãnh	adjective, verb
+4481	277	sinh trưởng	verb
+4482	277	suy yếu	verb
+4483	277	tỉnh táo	adjective
+4484	276	bê	interjection, noun, verb
+4485	276	hộ chiếu	noun
+4486	276	khoai	noun
+4487	276	giã	verb
+4488	276	phẳng	adjective
+4489	276	trầm cảm	adjective
+4490	276	mẫu giáo	noun
+4491	276	bản nhạc	noun
+4492	275	xé	verb
+4493	275	diệp	noun, proper noun
+4494	275	công trường	noun
+4495	275	đò	noun
+4496	275	vội vã	adjective
+4497	275	kinh ngạc	verb
+4498	275	trái ngược	adjective
+4499	275	hoàn kiếm	proper noun
+4500	274	bo	noun, proper noun
+4501	274	boa	verb
+4502	274	dạ	interjection, noun, particle, verb
+4503	274	kiều	proper noun, verb
+4504	274	mắm	noun, verb
+4505	274	chủng	noun
+4506	274	gian lận	verb
+4507	274	tây nam	adjective
+4508	274	nhận dạng	verb
+4509	273	q	character, noun
+4510	273	khỉ	noun
+4511	273	ôi	adjective, interjection
+4512	273	mãn	adjective, noun, verb
+4513	273	mỹ nhân	noun
+4514	273	kinh nguyệt	noun
+4515	273	cố ý	verb
+4516	273	quý báu	adjective
+4517	273	quen biết	verb
+4518	273	quán triệt	verb
+4519	272	sương mù	noun
+4520	272	mượt	adjective
+4521	272	xuất tinh	verb
+4522	272	mã lực	noun
+4523	272	yêu quý	verb
+4524	272	danh bạ	noun
+4525	272	cực kỳ	adverb
+4526	272	dày đặc	adjective
+4527	272	hoạch định	verb
+4528	272	ngộ nghĩnh	adjective
+4529	272	trình làng	verb
+4530	271	tráng	verb
+4531	271	nhi đồng	noun
+4532	271	biểu đồ	noun
+4533	271	bế	verb
+4534	271	hoãn	verb
+4535	271	nước tiểu	noun
+4536	270	đầu óc	noun
+4537	270	láng giềng	noun
+4538	270	thăng	noun, verb
+4539	270	vướng	verb
+4540	270	trinh	adjective
+4541	270	chứng từ	noun
+4542	270	nội trợ	adjective
+4543	270	đông bắc	adjective
+4544	269	nghiền	verb
+4545	269	kẹt	adjective, verb
+4546	269	bầy	noun
+4547	269	diện mạo	noun
+4548	269	vụn	adjective, noun
+4549	269	kỹ thuật số	adjective, noun
+4550	269	chéo	adjective
+4551	269	bộ mặt	noun
+4552	269	dung tích	noun
+4553	268	cau	noun, verb
+4554	268	sắn	noun
+4555	268	phóng xạ	adjective
+4556	268	hành lý	noun
+4557	268	hoạt hình	noun
+4558	268	phát thanh	noun, verb
+4559	268	khó tính	adjective
+4560	268	xuôi	adjective, noun, verb
+4561	268	quái	adjective, adverb, interjection, noun
+4562	268	thơ mộng	adjective
+4563	268	xếp hàng	verb
+4564	267	roi	noun
+4565	267	cà rốt	noun
+4566	267	huyệt	noun
+4567	267	quý	adjective, noun, prefix, proper noun, verb
+4568	267	âm mưu	noun, verb
+4569	267	thế kỷ	noun
+4570	267	củi	noun
+4571	267	từ ngữ	noun
+4572	267	thăm hỏi	verb
+4573	267	liệu pháp	noun
+4574	266	run	verb
+4575	266	tỳ	noun, verb
+4576	266	ủ	adjective, character, verb
+4577	266	lạng sơn	proper noun
+4578	266	táo bón	adjective
+4579	266	rạch	noun, verb
+4580	266	vọt	verb
+4581	266	tiền đề	noun
+4582	266	cứu trợ	verb
+4583	265	rải	noun, verb
+4584	265	lây	verb
+4585	265	bế tắc	adjective
+4586	265	xâm phạm	verb
+4587	265	bàn thờ	noun
+4588	265	tình báo	noun
+4589	265	thấu hiểu	verb
+4590	264	hét	noun, verb
+4591	264	chèn	noun, verb
+4592	264	tín	noun
+4593	264	phu nhân	noun
+4594	264	đông đúc	adjective
+4595	264	doạ	verb
+4596	264	triều đại	noun
+4597	264	tha thứ	verb
+4598	264	cầm quyền	verb
+4599	264	hộ khẩu	noun
+4600	264	thủ khoa	noun
+4601	263	dang	verb
+4602	263	mại dâm	verb
+4603	263	vật thể	noun
+4604	263	vinh quang	adjective, noun
+4605	263	đán	noun
+4606	263	thước	noun
+4607	263	vòng tròn	noun
+4608	263	xấp xỉ	adjective
+4609	263	dẹp	adjective, verb
+4610	263	lĩnh	proper noun, verb
+4611	263	phật tử	noun
+4612	263	viện trợ	noun
+4613	263	lặp lại	verb
+4614	263	xe khách	noun
+4615	262	quế	noun, proper noun
+4616	262	dân ca	noun
+4617	262	ngần ngại	verb
+4618	262	sứ mệnh	noun
+4619	262	hiền lành	adjective
+4620	262	bác bỏ	verb
+4621	262	cột sống	noun
+4622	262	khao khát	verb
+4623	262	rào cản	noun
+4624	262	tràng	noun
+4625	262	thể chế	noun
+4626	261	su	adjective, proper noun
+4627	261	đũa	noun
+4628	261	hoan nghênh	interjection
+4629	261	nhúng	verb
+4630	261	kín đáo	adjective
+4631	261	đường dẫn	noun
+4632	261	cương vị	noun
+4633	260	ân	noun
+4634	260	ghe	noun
+4635	260	chữ cái	noun
+4636	260	sốt rét	noun
+4637	260	rèm	noun
+4638	260	tệ nạn	noun
+4639	260	lạc hậu	adjective
+4640	260	kỳ hạn	noun
+4641	259	tràm	noun
+4642	259	lãnh	noun, verb
+4643	259	thụ	noun, verb
+4644	259	bẻ	verb
+4645	259	vỗ	verb
+4646	259	nho nhỏ	adjective
+4647	259	chuyển dịch	verb
+4648	259	chuyên trách	verb
+4649	259	vành	noun
+4650	259	đề kháng	verb
+4651	259	gặt hái	verb
+4652	259	chứng cứ	noun
+4653	259	bản án	noun
+4654	258	luỹ	noun
+4655	258	cung điện	noun
+4656	258	lục địa	noun
+4657	258	dòng điện	noun
+4658	258	bình phước	proper noun
+4659	258	tụ tập	verb
+4660	258	triệu tập	verb
+4661	258	khắt khe	adjective
+4662	258	thăng hoa	verb
+4663	258	thủ phạm	noun
+4664	257	lang	adjective, noun
+4665	257	vòm	noun
+4666	257	máy vi tính	noun
+4667	257	trọn gói	adjective
+4668	257	hiện trạng	noun
+4669	257	toát	verb
+4670	257	tìm tòi	verb
+4671	257	máy chiếu	noun
+4672	256	tảng	noun
+4673	256	tảo	noun
+4674	256	lắc đầu	verb
+4675	256	giảm sút	verb
+4676	256	cấp bách	adjective
+4677	256	cầu nguyện	verb
+4678	256	thống đốc	noun
+4679	256	gầm	noun, verb
+4680	256	trả giá	verb
+4681	256	phó hiệu trưởng	noun
+4682	256	tai biến	noun
+4683	256	thu giữ	verb
+4684	255	rót	verb
+4685	255	khát	adjective
+4686	255	vui tươi	adjective
+4687	255	sơ bộ	adjective
+4688	255	cử chỉ	noun
+4689	255	thừa thiên	proper noun
+4690	254	am	noun
+4691	254	tra	adjective, verb
+4692	254	trí nhớ	noun
+4693	254	trực thăng	noun
+4694	254	y khoa	noun
+4695	254	trường sơn	proper noun
+4696	254	hiếm hoi	adjective
+4697	254	nghiêm ngặt	adjective
+4698	253	bè	noun
+4699	253	cằm	noun
+4700	253	siết	verb
+4701	253	trút	noun, verb
+4702	253	nung	verb
+4703	253	biếu	verb
+4704	253	toàn cảnh	noun
+4705	253	thẩm phán	noun
+4706	253	nguyệt	proper noun
+4707	253	lên án	verb
+4708	252	đá quý	noun
+4709	252	thống	noun
+4710	252	như ý	verb
+4711	252	giải cứu	verb
+4712	252	thuộc tính	noun
+4713	252	đầu cơ	adjective, verb
+4714	252	kế thừa	verb
+4715	251	bào	noun, verb
+4716	251	mìn	noun
+4717	251	bức xạ	noun
+4718	251	trở về	verb
+4719	251	ưng ý	adjective
+4720	251	ngũ cốc	noun
+4721	251	hạt giống	noun
+4722	251	mắng	verb
+4723	251	bối rối	adjective, verb
+4724	251	mênh mông	adjective
+4725	251	thành thị	noun
+4726	250	hé	verb
+4727	250	chích	noun, verb
+4728	250	kiệt	proper noun
+4729	250	hỏi thăm	verb
+4730	250	tươi tắn	adjective
+4731	249	nam phi	adjective, proper noun
+4732	249	tuỷ	noun
+4733	249	đương đại	adjective
+4734	249	tốp	noun
+4735	249	hoả	noun
+4736	249	huỳnh	proper noun
+4737	249	trệt	adjective
+4738	249	lớn mạnh	verb
+4739	249	thẳm	adjective, adverb
+4740	249	xác lập	verb
+4741	249	ra sức	verb
+4742	248	ok	interjection
+4743	248	đầu gối	noun
+4744	248	gân	noun
+4745	248	lặp	verb
+4746	248	khung thành	noun
+4747	248	xuất thân	noun, verb
+4748	248	thấu	adjective
+4749	248	thành thạo	adjective, adverb
+4750	248	biết đâu	adverb
+4751	248	đôn đốc	verb
+4752	247	tát	verb
+4753	247	dép	noun
+4754	247	máy giặt	noun
+4755	247	giao thừa	noun
+4756	247	địa phận	noun
+4757	247	truyền đạt	verb
+4758	247	sóng gió	noun
+4759	247	áp đặt	verb
+4760	247	phàn nàn	verb
+4761	247	bù đắp	verb
+4762	247	pháp lệnh	noun
+4763	247	kiên cố	adjective
+4764	246	sừng	noun
+4765	246	giải thoát	verb
+4766	246	khoanh	noun, verb
+4767	246	gật	verb
+4768	246	khôn ngoan	adjective
+4769	246	thoái hoá	verb
+4770	246	phan thiết	proper noun
+4771	246	ghi hình	verb
+4772	245	xoè	verb
+4773	245	gò vấp	proper noun
+4774	245	hiên	noun
+4775	245	thắm	adjective, proper noun
+4776	245	rắc	verb
+4777	245	khang trang	adjective
+4778	244	thuỳ	noun, proper noun
+4779	244	trứng cá	noun
+4780	244	chức trách	noun
+4781	244	vô hình	adjective
+4782	244	thảo dược	noun
+4783	244	quyết toán	verb
+4784	244	quân khu	noun
+4785	243	tiễn	verb
+4786	243	đọng	adjective, verb
+4787	243	nảy	verb
+4788	243	hễ	conjunction
+4789	243	bắt cóc	verb
+4790	243	giêng	noun
+4791	243	xung	noun, verb
+4792	243	tiêu hao	verb
+4793	243	dân dụng	adjective
+4794	243	chuyển tiếp	verb
+4795	242	vác	verb
+4796	242	đường cao tốc	noun
+4797	242	am hiểu	verb
+4798	242	hưng phấn	adjective
+4799	242	quyền hạn	noun
+4800	242	thắng cảnh	noun
+4801	242	ghi âm	verb
+4802	241	que	classifier, noun
+4803	241	khay	noun
+4804	241	quặng	noun
+4805	241	búp bê	noun
+4806	241	xốp	adjective
+4807	241	khuynh hướng	noun
+4808	241	phổ cập	verb
+4809	241	tưng bừng	adjective
+4810	241	thừa kế	verb
+4811	240	gom	verb
+4812	240	nghi thức	noun
+4813	240	chớp	noun, verb
+4814	240	đột quỵ	noun
+4815	240	diễn tả	verb
+4816	240	đàn hồi	adjective
+4817	240	xịt	adjective, verb
+4818	240	độc tố	noun
+4819	239	rằm	noun
+4820	239	nói dối	verb
+4821	239	chửi	verb
+4822	239	kíp	noun
+4823	239	tụt	verb
+4824	239	đại lộ	noun
+4825	239	tài tử	adjective, noun
+4826	238	mài	verb
+4827	238	núi lửa	noun
+4828	238	thổ	adjective, noun, proper noun, verb
+4829	238	tấp nập	adjective
+4830	238	quy tụ	verb
+4831	238	gián tiếp	adjective
+4832	238	thủ lĩnh	noun
+4833	238	cục bộ	adjective
+4834	238	phản xạ	noun, verb
+4835	238	oanh	noun, proper noun
+4836	238	bao phủ	verb
+4837	238	dự tính	verb
+4838	237	tê	adjective, noun, pronoun
+4839	237	đai	noun, verb
+4840	237	thân yêu	adjective
+4841	237	trục trặc	adjective, noun
+4842	237	bàn bạc	verb
+4843	237	trang trọng	adjective
+4844	237	mong chờ	verb
+4845	237	tiểu đoàn	noun
+4846	237	nội thành	adverb
+4847	236	lui	verb
+4848	236	két	noun
+4849	236	rèn	verb
+4850	236	bọt	noun
+4851	236	vần	adjective, noun, verb
+4852	236	luân	proper noun
+4853	236	nhanh nhẹn	adjective
+4854	236	phản biện	verb
+4855	236	giải trình	verb
+4856	236	bể bơi	noun
+4857	236	bất đồng	adjective
+4858	236	sao chép	verb
+4859	236	song phương	adjective
+4860	236	đời thường	adjective
+4861	235	team	noun
+4862	235	thứ bảy	noun
+4863	235	đái tháo đường	noun
+4864	235	chữ số	noun
+4865	235	phụng	proper noun
+4866	235	lều	noun
+4867	235	vắng mặt	verb
+4868	235	kỹ	adjective
+4869	235	khởi sắc	verb
+4870	234	dò	verb
+4871	234	tí	adjective, noun
+4872	234	cà	noun, prefix, verb
+4873	234	quách	adverb, noun, proper noun
+4874	234	sọc	adjective
+4875	234	êm	adjective
+4876	234	chọc	verb
+4877	234	thề	noun, verb
+4878	234	ngời	adjective
+4879	234	hành quân	verb
+4880	234	cầu nối	noun
+4881	234	thương yêu	verb
+4882	234	cộng tác	verb
+4883	234	khép kín	adjective
+4884	234	nội trú	adjective, adverb
+4885	234	từ trường	noun
+4886	234	tra cứu	verb
+4887	234	đăng quang	verb
+4888	233	xì	noun, verb
+4889	233	nhượng	verb
+4890	233	đối chiếu	verb
+4891	233	vôi	noun
+4892	233	nghiêm khắc	adjective
+4893	233	ngoại lệ	noun
+4894	233	đẹp trai	adjective
+4895	232	sam	noun
+4896	232	bóng tối	noun
+4897	232	lắng	verb
+4898	232	sờ	verb
+4899	232	quả thật	adverb
+4900	232	khanh	pronoun
+4901	232	tự trọng	verb
+4902	232	nhà máy điện	noun
+4903	231	xử lý	verb
+4904	231	đấu trường	noun
+4905	231	triết	noun, proper noun
+4906	231	trình chiếu	verb
+4907	231	tay chân	noun
+4908	231	lên lớp	verb
+4909	230	ráo	adjective
+4910	230	xoài	noun
+4911	230	như thế	adverb
+4912	230	bán buôn	verb
+4913	230	thời cơ	noun
+4914	230	tố tụng	verb
+4915	230	trả thù	verb
+4916	230	nhắm mắt	verb
+4917	230	tinh khiết	adjective
+4918	230	nhất quán	adjective
+4919	230	nên người	verb
+4920	229	bong	verb
+4921	229	im	adjective
+4922	229	rượu vang	noun
+4923	229	dứa	noun
+4924	229	anh đào	noun
+4925	229	tứ kết	noun
+4926	229	dời	verb
+4927	229	rát	adjective
+4928	229	tương phản	adjective
+4929	229	đa dạng hoá	verb
+4930	228	sọ	noun
+4931	228	thám tử	noun
+4932	228	nhóc	adjective, noun
+4933	228	tuổi tác	noun
+4934	228	mong manh	adjective
+4935	228	tổn hại	verb
+4936	228	kiểm	verb
+4937	228	bao bọc	verb
+4938	227	rán	verb
+4939	227	ngũ	noun
+4940	227	loãng	adjective
+4941	227	nhái	noun, verb
+4942	227	sức lực	noun
+4943	227	quỹ đạo	noun
+4944	227	lội	verb
+4945	227	xích	noun, verb
+4946	227	nhí	adjective
+4947	227	lưu hành	verb
+4948	227	khoả	verb
+4949	227	sạt lở	noun
+4950	227	công vụ	noun
+4951	226	châm	verb
+4952	226	nhiễu	adjective, noun
+4953	226	vuốt	noun, verb
+4954	226	thở dài	verb
+4955	226	sáng suốt	adjective
+4956	226	nối tiếp	verb
+4957	226	phê phán	verb
+4958	226	biệt danh	noun
+4959	226	toạ độ	noun
+4960	225	kali	noun
+4961	225	mồm	noun
+4962	225	lười	adjective, noun
+4963	225	ghen	verb
+4964	225	nguyên tố	noun
+4965	225	gáy	noun, verb
+4966	225	đồng đều	adjective
+4967	225	cớ	noun
+4968	225	ôn tập	verb
+4969	225	hình phạt	noun
+4970	225	sắp đặt	verb
+4971	225	bất lực	adjective, verb
+4972	225	tụ	verb
+4973	225	mong ước	noun, verb
+4974	224	spam	noun
+4975	224	rể	noun
+4976	224	dương vật	noun
+4977	224	cóc	interjection, noun, particle
+4978	224	hận	noun
+4979	224	mương	noun
+4980	224	rối	adjective, noun
+4981	224	nguyên vẹn	adjective
+4982	224	nồng	adjective
+4983	224	binh sĩ	noun
+4984	224	trợ lý	noun
+4985	224	từ chức	verb
+4986	223	tạm biệt	interjection, verb
+4987	223	đông lạnh	adjective
+4988	223	bóng chuyền	noun
+4989	223	hậu môn	noun
+4990	223	bỗng dưng	adverb
+4991	223	xa xưa	adjective
+4992	223	nguy hại	adjective
+4993	223	lập nghiệp	verb
+4994	222	vận tốc	noun
+4995	222	mỏi	adjective
+4996	222	phương trình	noun
+4997	222	trồng trọt	verb
+4998	222	khái quát	adjective, verb
+4999	222	sau cùng	adverb
+5000	222	dấu vết	noun
